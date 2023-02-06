@@ -11,8 +11,8 @@ pretrained_model: ""
 second_stage_load_pretrained: false # set to true if the pre-trained model is for 2nd stage
 load_only_params: false # set to true if do not want to load epoch numbers and optimizer parameters
 
-train_data: "Data/train_list_libritts_VCTK_VoxPopuli_base.txt"
-val_data: "Data/val_list_libritts_VCTK_VoxPopuli_base.txt"
+train_data: "Data/train_list_libritts_VCTK_VoxPopuli_kaggle.txt"
+val_data: "Data/val_list_libritts_VCTK_VoxPopuli_kaggle.txt"
 
 F0_path: "Utils/JDC/bst.t7"
 ASR_config: "Utils/ASR/config.yml"
