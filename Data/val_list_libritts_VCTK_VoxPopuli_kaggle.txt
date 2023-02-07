@@ -104,11 +104,11 @@
 /kaggle/input/libritts-460/train-clean-460/2196/170379/2196_170379_000005_000004.wav|ðə fˈɔːɹmɚ mˈɛsmɚ θˈɔːt fˈɜːðɚ ðæt mˈɛɾəl bɪkˌeɪm ɪmbjˈuːd baɪ ðə sˈoʊlɚ kwˈɔlᵻɾiz, ænd hɪz sˈɪstəm ɪz ˈɔːlsoʊ nˈoʊn æz mˈɛɾələdʒˌaɪ baɪ wˌɪtʃ hiː mˈɛnt ðə pɹˈɑːpɚɹ ˌæplɪkˈeɪʃən ʌv mˈɛɾəlz.
 /kaggle/input/libritts-460/train-clean-460/192/128345/192_128345_000013_000000.wav|ɪt wʌz æz lˈeɪt æz sˈɛvən əklˈɑːk wɛn hiː ɐwˈoʊk ɹᵻfɹˈɛʃt, ænd wɛnt ˈaʊt ˌɪntʊ ðə stɹˈiːts ɐɡˈɛn.
 /kaggle/input/libritts-460/train-clean-460/409/124990/409_124990_000006_000011.wav|wiː mˈeɪ ɡˈɪv ˈʌðɚz ɐ pɹˈɛfɹəns ˌoʊvɚ hˌɪm ɪn ˈɑːpʃənəl ɡˈʊd ˈɑːfɪsᵻz, ɛksˈɛpt ðoʊz wˌɪtʃ tˈɛnd tə hɪz ɪmpɹˈuːvmənt.
-/kaggle/input/libritts-460/train-clean-460/1379/130486/1379_130486_000009_000000.wav|ɐfˈɛktɪŋ ɐ tˈoʊn ʌv ɡˈeɪɪɾi 
+/kaggle/input/libritts-460/train-clean-460/1379/130486/1379_130486_000009_000000.wav|ɐfˈɛktɪŋ ɐ tˈoʊn ʌv ɡˈeɪɪɾi
 /kaggle/input/libritts-460/train-clean-460/4116/13256/4116_13256_000043_000005.wav|bˌʌt ʃiː ɪz ˈɔːlsoʊ ɐ tʃˈaɪld ʌv ɡˈɑːd.
 /kaggle/input/libritts-460/train-clean-460/3982/178459/3982_178459_000056_000002.wav|wiː wɜː pˈʊɹ, ænd wiː wˌɜːnt fˈɪɾᵻd tə bˈiː.
 /kaggle/input/libritts-460/train-clean-460/3546/175390/3546_175390_000014_000001.wav|ˈoʊ, sˈɜːʔn̩li, θˈæŋk juː!"
-/kaggle/input/libritts-460/train-clean-460/4246/12544/4246_12544_000002_000000.wav|tʃˈæptɚ twˈɛnti sˈɪks 
+/kaggle/input/libritts-460/train-clean-460/4246/12544/4246_12544_000002_000000.wav|tʃˈæptɚ twˈɛnti sˈɪks
 /kaggle/input/libritts-460/train-clean-460/1027/125147/1027_125147_000115_000001.wav|bˌʌt jʊɹ pˈɑːɹdən fɚðə stˌɪpjʊlˈeɪʃən ɪɾ ɪz ɪn sˈeɪkɹɪd kˈɑːnfɪdəns; ɪɾ ɪz stɹˈɪktli əpˌɑːn ˈɑːnɚ.
 /kaggle/input/libritts-460/train-clean-460/7240/92202/7240_92202_000011_000000.wav|æz sˈuːn æz ðɪs wʌz ˈɛndᵻd, ðə pˈoʊni ɹˈeɪsᵻz fˈɑːloʊd.
 /kaggle/input/libritts-460/train-clean-460/3258/169291/3258_169291_000001_000004.wav|æz ɐ ɹɪzˈʌlt, wiː fˈaɪnəli dᵻsˈaɪdᵻd tʊ ˌʌndɚtˈeɪk ðə kənstɹˈʌkʃən əvə stˈɪl lˈɑːɹdʒɚ bˈɪldɪŋɐ bˈɪldɪŋ ðæt wʊd kəntˈeɪn ɹˈuːmz fɚðə ɡˈɜːlz ænd bˈoːɹdɪŋ ɐkˌɑːmədˈeɪʃənz fɔːɹ ˈɔːl.
@@ -208,7 +208,7 @@
 /kaggle/input/libritts-460/train-clean-460/3370/163384/3370_163384_000016_000001.wav|bˈɑːb, ɪf juː ænd tˈɑːm ɑːɹ ɹˈɛdi, tˈeɪk jʊɹ plˈeɪsᵻz."
 /kaggle/input/libritts-460/train-clean-460/176/122025/176_122025_000082_000000.wav|ˈɑːdsbədˌɪkɪnz!sˈɛd ðə sˈɑːɹdʒənt ʌv pəlˈiːs, tˈeɪkɪŋ ˈɔf hɪz hˈɛlmɪt ænd wˈaɪpɪŋ hɪz fˈɔːɹhɛd.
 /kaggle/input/libritts-460/train-clean-460/7939/120318/7939_120318_000011_000000.wav|"juː dˈoʊnt sˈeɪ!
-/kaggle/input/libritts-460/train-clean-460/2573/178449/2573_178449_000038_000002.wav|ɹˈiːd ðə pˈoʊɪt wɪð ɐ pˈʌntʃ!nˈoʊ 
+/kaggle/input/libritts-460/train-clean-460/2573/178449/2573_178449_000038_000002.wav|ɹˈiːd ðə pˈoʊɪt wɪð ɐ pˈʌntʃ!nˈoʊ
 /kaggle/input/libritts-460/train-clean-460/2240/148521/2240_148521_000007_000000.wav|ðæt pəlˈɪɾɪkəl fɹˈiːdəm mˈeɪ kˈɑːmpɹəmˌaɪz ɪn ɪts ɛksˈɛsᵻz ðə tɹæŋkwˈɪlᵻɾi, ðə pɹˈɑːpɚɾi, ðə lˈaɪvz ʌv ˌɪndᵻvˈɪdʒuːəlz, ɪz ˈɑːbviəs tə ðə nˈæɹoʊɪst ænd mˈoʊst ʌnθˈɪŋkɪŋ mˈaɪndz.
 /kaggle/input/libritts-460/train-clean-460/8609/262281/8609_262281_000025_000000.wav|"dˈɪd aɪ nˌɑːt ɹᵻkwˈɛst juː tə hæv ðæt ˈɛksɚsˌaɪz ɹˈɪʔn̩ ˈaʊt?"
 /kaggle/input/libritts-460/train-clean-460/3070/166421/3070_166421_000014_000000.wav|"ˈɛnɪwˌɛɹ juː sˈeɪ sˈuːts mˌiː," hiː ˈænsɚd.
@@ -248,7 +248,7 @@
 /kaggle/input/libritts-460/train-clean-460/3549/9203/3549_9203_000019_000005.wav|hiː stˈɑːɹɾᵻd ˈʌp, ðə lˈætʃ jˈiːldᵻd tə ðə pɹˈɛʃɚɹ ʌv hɪz θˈʌm: ðə dˈoːɹ sˈaɪləntli swˈʌŋ ˈoʊpən bᵻfˈoːɹ hˌɪm.
 /kaggle/input/libritts-460/train-clean-460/1050/134121/1050_134121_000054_000000.wav|"aɪ wˈɪʃ ʃiː wɜː hˈɪɹ," sˈɛd ᵻlˈɪzəbəθ ɪlˈaɪzə.
 /kaggle/input/libritts-460/train-clean-460/7190/90542/7190_90542_000096_000007.wav|ɪnðə dˈɑːɹk hiː hæd ˈɛvɪdəntli ɡɑːt fjˈuːəl, ænd hæd stˈɑːɹɾᵻd ɐ fˈaɪɚɹ ɔnðə stˈoʊn slˈæb.
-/kaggle/input/libritts-460/train-clean-460/1054/143005/1054_143005_000001_000000.wav|ðə bˈiːst wɪð fˈaɪv fˈɪŋɡɚz 
+/kaggle/input/libritts-460/train-clean-460/1054/143005/1054_143005_000001_000000.wav|ðə bˈiːst wɪð fˈaɪv fˈɪŋɡɚz
 /kaggle/input/libritts-460/train-clean-460/3008/164327/3008_164327_000045_000003.wav|ɪt mˌaɪt biː səpˈoʊzd ðætðə mˈɜːdɚɹɚ wʌz wˈɜːkɪŋ fɚðɪ ˈʌðɚ."
 /kaggle/input/libritts-460/train-clean-460/6683/63841/6683_63841_000011_000006.wav|jˈɪɹ ˈæftɚ jˈɪɹ hiː sˈɔː ɐ ɡˈæŋ ʌv θˈiːvz ɪnðə sˈɪɾi hˈɔːl stˈiːlɪŋ hɪz ɹˈɛvənˌuːz ˌʌndɚ ðə nˈeɪm ʌv tˈæksᵻz ænd ɐsˈɛsmənts, bˌʌt hiː nˈɛvɚ lˈɛd ɐn ɐsˈɔlt əpˌɑːn ðˌɛm nˈɔːɹ ɡˈeɪv ðɪ ˈeɪd hiː ˈɔːt tə ðoʊz hˌuː dˈɪd.
 /kaggle/input/libritts-460/train-clean-460/8630/305212/8630_305212_000003_000000.wav|hiː tˈɛlz ˌʌs hˌaʊ hiː wɛnt wˈʌn nˈaɪt wɪð ɐ bˈænd ʌv ðiːz wˈaɪld kəmpˈæniənz tə ɹˈɑːb ðə fɹˈuːt tɹˈiː əvə pˈʊɹ nˈeɪbɚ.
@@ -263,7 +263,7 @@
 /kaggle/input/libritts-460/train-clean-460/2416/152137/2416_152137_000012_000005.wav|ɪt hæd fˈɔːlən æt hɪz fˈiːt æz hiː hæd stˈuːpt ˌoʊvɚ fɔːɹ hɪz hˈætbˌʌt fɹʌm dʒˈʌst ɛɡzˈæktli wʌt dᵻɹˈɛkʃən hiː kʊd nˌɑːt tˈɛl.
 /kaggle/input/libritts-460/train-clean-460/4898/20016/4898_20016_000013_000002.wav|"lˈʊk ˈɪn, sˌɜː," sˈɛd nˈeɪθən, nˌɑːt vˈɛntʃɚɹɪŋ ɐ ɡlˈæns hɪmsˈɛlf.
 /kaggle/input/libritts-460/train-clean-460/1885/136863/1885_136863_000028_000010.wav|bˌʌt hiː ɡˈeɪv ɐ mˈoːɹ ˈɛmɪnənt pɹˈuːf ʌv ɪɾ ɪn ˌaʊɚ sˈɪstɚ kˈɪŋdəm, æz dˈɑːktɚ dʒˈɑːnsən ɪnfˈɔːɹmd mˌiː.
-/kaggle/input/libritts-460/train-clean-460/5489/10988/5489_10988_000068_000002.wav|wˌaɪ ɪz ðˈæt, sˌɜː dʒˈæspɚ?sˌɜː dʒˈæspɚ bˈɪɡæmmˈɪstɚ 
+/kaggle/input/libritts-460/train-clean-460/5489/10988/5489_10988_000068_000002.wav|wˌaɪ ɪz ðˈæt, sˌɜː dʒˈæspɚ?sˌɜː dʒˈæspɚ bˈɪɡæmmˈɪstɚ
 /kaggle/input/libritts-460/train-clean-460/8825/292252/8825_292252_000025_000001.wav|aɪ hæv wˈɔːkt bˈoʊθ ɹˈaʊts ænd kənsˈɪdɚ ðə lˈæɾɚ ðə ʃˈɔːɹɾɚ.
 /kaggle/input/libritts-460/train-clean-460/4340/15220/4340_15220_000070_000000.wav|"aɪ hˈɜːd ˈɛm ɹˈoːɹ dʒˈʌst nˈaʊ;" ænd bˈɪli stˈʊd ˌʌp tə ɡˈeɪz wɪð bˈɪɡ ˈaɪz æt ðə flˈæpɪŋ kˈænvəs wˌɪtʃ hˈɪd ðə kˈɪŋ ʌv bˈiːsts fɹʌm hɪz lˈɔŋɪŋ sˈaɪt.
 /kaggle/input/libritts-460/train-clean-460/6555/398/6555_398_000003_000003.wav|nˈaʊ baɪ ðɪs nˈɛsᵻsɚɹi kˈɑːnsɪkwəns ˈɔːl ðə lˈeɪbɚ spˈɛnt ɪn fˈaɪndɪŋ ɐ suːpɹˈiːm pɹˈɪnsɪpəl ʌv dˈuːɾi wʌz ɪɹᵻvˈɑːkəbli lˈɔst.
@@ -294,7 +294,7 @@
 /kaggle/input/libritts-460/train-clean-460/7078/271888/7078_271888_000104_000001.wav|ðə lˈɪmɪt fɔːɹ sˈɛndɪŋ ɪn tə ðɪ ɐkˈædəmi wʌz ɐpɹˈoʊtʃɪŋ; bˌʌt dˈɪk dɪdnˌɑːt ɹˈaɪt, ænd aɪ kʊd ˈoʊnli wˈʌndɚ vˈeɪɡli wˌɛɹ hiː wʌz wˈɔndɚɹɪŋ.
 /kaggle/input/libritts-460/train-clean-460/7302/86814/7302_86814_000054_000000.wav|"bɪkˈʌz ðə pˈɜːsən hˌuː bˈɛɹz ɪɾ ɪz tˈuː hˈaɪli fˈeɪvɚd baɪ hˈɛvən təbi ðə fˈɑːðɚɹ ʌv sˈʌtʃ ɐ ɹˈɛtʃ æz juː."
 /kaggle/input/libritts-460/train-clean-460/8118/114476/8118_114476_000036_000002.wav|hˈɪɹ wʌzɐ fˈʊl hˈæf dˈeɪ fɚðɪ ˈɑːɹmi ʌvðə pətˈoʊmək, ɪnˈʌf ɪnwˌɪtʃ tə dᵻstɹˈɔɪ ɐ dᵻvˈaɪdᵻd pˈoːɹʃən ʌvðɪ ˈɑːɹmi ʌv nˈɔːɹðɚn vɜːdʒˈɪniə.
-/kaggle/input/libritts-460/train-clean-460/1379/130530/1379_130530_000152_000000.wav|aɪ hæv vˈɛɹi mˈʌtʃ lˈɛs fˈiːlɪŋ ʌv 
+/kaggle/input/libritts-460/train-clean-460/1379/130530/1379_130530_000152_000000.wav|aɪ hæv vˈɛɹi mˈʌtʃ lˈɛs fˈiːlɪŋ ʌv
 /kaggle/input/libritts-460/train-clean-460/6918/61317/6918_61317_000027_000007.wav|ðɛɹˌɑːɹ stˈɪl "spˈɪɾɪŋ stˈoʊnz" ɪnðə nˈɔːɹθ ʌv skˈɑːtlənd.
 /kaggle/input/libritts-460/train-clean-460/3835/178028/3835_178028_000006_000001.wav|ðə kˈoːɹɾɪɹz sˈʌfɚd bɪkˈʌz ʌvðə sˈʌfɚɹɪŋ ðə səspˈɛns əkˈeɪʒənd ðɪ ˈɛmpɚɹɚ.
 /kaggle/input/libritts-460/train-clean-460/2853/164187/2853_164187_000011_000000.wav|wˌaɪl ðɪs wʌz bˌiːɪŋ dˈʌn, dˈiːvə bˈʌndəld hɜː tʃˈɪnts kˈɜːtənz təɡˌɛðɚ ænd stˈoːɹd ðˌɛm ænd ðə ɹˈoʊzᵻz ʃiː hæd kˈʌt ˈaʊt ˌɪntʊ hɜː wˈɜːk kˈʌbəd, fɔːɹ sˈiːkɹᵻsi wʌz ɐn ᵻsˈɛnʃəl tə ðə kənstɹˈʌkʃən ʌv ðiːz dˌɛkɚɹˈeɪʃənz.
@@ -308,7 +308,7 @@
 /kaggle/input/libritts-460/train-clean-460/1970/26100/1970_26100_000009_000000.wav|ðæt ʃiː ʃˌʊd ɹˈɪsk hɜː ɹˌɛpjuːtˈeɪʃən tə ɹˈʌn ˈæftɚ ðæt mˈæn wʌz ˌɪnɛksplˈɪkəbəl, bˌʌt ɪt wʌz dʒˈʌst lˈaɪk ɐ wˈʊmən.
 /kaggle/input/libritts-460/train-clean-460/6956/76046/6956_76046_000060_000003.wav|ðə ɹˈɛst nˈɛvɚ ɡɛt ɐ tʃˈæns."
 /kaggle/input/libritts-460/train-clean-460/7145/87280/7145_87280_000008_000001.wav|bɹˈændən hæd kəntɹˈaɪvd tə hæv hɪz dˈuːɾiz, ɑːstˈɛnsᵻbli æt lˈiːst, ˈɑːkjʊpˌaɪ hɪz ˈiːvnɪŋz, ænd dˈɪd ˈɑːnɪstli wʌt hɪz dʒˈʌdʒmənt tˈoʊld hˌɪm wʌzðə wˈʌn θˈɪŋ tə dˈuː; ðæt ˈɪz, ɹᵻmˈeɪn ɐwˈeɪ fɹʌm ɐ fˈaɪɚ ðæt kʊd ɡˈɪv nˈoʊ dʒˈiːnɪəl wˈɔːɹmθ, bˌʌt wʌz ʃˈʊɹ tə bˈɜːn hˌɪm tə ðə kwˈɪk.
-/kaggle/input/libritts-460/train-clean-460/1382/130549/1382_130549_000062_000000.wav|kˈɑːnsəntɹˌeɪɾᵻd ænd ɪmplˈækəbəl ɹᵻzˈɑːlv 
+/kaggle/input/libritts-460/train-clean-460/1382/130549/1382_130549_000062_000000.wav|kˈɑːnsəntɹˌeɪɾᵻd ænd ɪmplˈækəbəl ɹᵻzˈɑːlv
 /kaggle/input/libritts-460/train-clean-460/3242/8112/3242_8112_000018_000001.wav|ðɛɹ sˈiːm təbi tˈuː mɛni bˈeɪsɪk fˈæktɚz mˈɪsɪŋ.
 /kaggle/input/libritts-460/train-clean-460/7909/106370/7909_106370_000007_000002.wav|dˈʊɹɹɪŋ ðə nˈaɪt ðə wˈɪnd sˈiːst ænd æt dˈɔːn ðeɪ ɡlˈædli ɹˈiːtʃt ðə hˈeɪvən ʌvðɪ eɪkɹˈuːʒən hˈɛdlənd.
 /kaggle/input/libritts-460/train-clean-460/196/122159/196_122159_000013_000000.wav|"ɪɾ ɪz dˈɪfɪkəlt tə sˈiː ɐ hˈɛɹ æt mˈɪdnaɪt," aɪ pˌʊt ˈɪn, ɐ lˈɪɾəl vˈɪʃəsli aɪ fˈɪɹ.
@@ -406,7 +406,7 @@
 /kaggle/input/libritts-460/train-clean-460/6437/66172/6437_66172_000024_000001.wav|ɪt spɹˈɛd lˈaɪk wˈaɪldfaɪɚɹ ˌoʊvɚ ðə tˈaʊn, ænd, ðˌoʊ ðə mˈɔːɹɾɚ ænd ðə plˈækɑːɹd wɜː spˈiːdili ɹᵻmˈuːvd, ˌaʊɚ tɹˈaɪʌmf wʌz kəmplˈiːt.
 /kaggle/input/libritts-460/train-clean-460/8747/293952/8747_293952_000092_000001.wav|"aɪɐm nˌɑːt ɐfɹˈeɪd ʌv dˈʌɹəm.
 /kaggle/input/libritts-460/train-clean-460/576/129623/576_129623_000099_000003.wav|ðˈɛn hɜːɹ ˈæbsəlˌuːt dˌɪsɹɪɡˈɑːɹd fɔːɹ hɜː dˈuːɾiz æz ɐ wˈaɪf ˈæŋɡɚd hˌɪm.
-/kaggle/input/libritts-460/train-clean-460/1641/130505/1641_130505_000070_000000.wav|lˈoʊnlinəs stɹˈʌk hˌɪm lˈaɪk ɐ blˈoʊ 
+/kaggle/input/libritts-460/train-clean-460/1641/130505/1641_130505_000070_000000.wav|lˈoʊnlinəs stɹˈʌk hˌɪm lˈaɪk ɐ blˈoʊ
 /kaggle/input/libritts-460/train-clean-460/1224/121064/1224_121064_000008_000008.wav|"aɪ dˈɪd," ɹᵻplˈaɪd ðə kˈaʊnt.
 /kaggle/input/libritts-460/train-clean-460/2893/139310/2893_139310_000036_000002.wav|hiː pɚsˈiːvd ðə ɡˈɜːl ɪn ɡɹˈeɪ klˈoʊs tə hˌɪm, hɜː fˈeɪs lˈɪt, hɜː dʒˈɛstʃɚɹ ˈɑːnwɚd.
 /kaggle/input/libritts-460/train-clean-460/6385/34669/6385_34669_000018_000000.wav|wˌʌt wʌz ðɪs ˈænɪməl?
@@ -467,7 +467,7 @@
 /kaggle/input/libritts-460/train-clean-460/9022/282383/9022_282383_000030_000002.wav|wˌʌt kˈɛɹd ðiːz ˈɑːɹɡənˌɔːts, hˌuː hæd tɹˈæmpt əkɹˌɑːs ðə wˈɪtθ ʌvðə kˈɑːntɪnənt, ðætðə lˈɔfti mˈaʊntɪnz ɹˈeɪzd ɐ ʃˈɪɹ wˈɔːl bᵻtwˌiːn ðˌɛm ænd ðɛɹ tɹˈɛʒɚ?
 /kaggle/input/libritts-460/train-clean-460/1705/142318/1705_142318_000042_000000.wav|aɪ hæv nˈɛvɚ nˈeɪmd ɪt tʊ ˈiːðɚ maɪ bɹˈʌðɚ ɔːɹ jʊɹ kˈʌzən,sˈɛd mˈɪstɚ lˈɛnɑːks, wɪð ɐ lˈɪɾəl pɹəfˈɛʃənəl dɹˈaɪnəs ʌv ɪmplˈaɪd ɹᵻpɹˈoʊtʃ.
 /kaggle/input/libritts-460/train-clean-460/6235/36641/6235_36641_000093_000000.wav|wˌɛn aɪ ʃˈɛɹd ðiːz ɪmpɹˈɛʃənz wɪð hˌɪm, hiː ˈænsɚd mˌiː ɪn ɐ tˈoʊn tˈʌtʃt wɪð ɪmˈoʊʃən:
-/kaggle/input/libritts-460/train-clean-460/6505/231837/6505_231837_000001_000000.wav|tʃˈæptɚ fˈaɪv 
+/kaggle/input/libritts-460/train-clean-460/6505/231837/6505_231837_000001_000000.wav|tʃˈæptɚ fˈaɪv
 /kaggle/input/libritts-460/train-clean-460/272/130229/272_130229_000001_000005.wav|ɪf aɪ kʊd tˈeɪm ɪtbˌʌt ðæt ɪz ˌaʊɾəv ðə kwˈɛstʃən; ðə mˈoːɹ aɪ tɹˈaɪ, ðə wˈɜːs aɪ sˈiːm tə mˈeɪk ɪt.
 /kaggle/input/libritts-460/train-clean-460/188/141613/188_141613_000046_000000.wav|"ænd ðˈɛn juː ɹˈæn ɐwˈeɪ ænd aɪ fˈaʊnd juː ðæt dˈeɪ, dˌaʊn baɪ mˈɪsɪz snˈoʊz," ɛɡzˈʌltᵻd pˌɑːlɪˈænə, sˈɔftli.
 /kaggle/input/libritts-460/train-clean-460/227/129974/227_129974_000012_000000.wav|hiː kˈʌlɚd æz hiː ɹᵻplˈaɪd, "juː ɑːɹ vˈɛɹi kˈaɪnd, bˌʌt aɪ hæv nˈoʊ aɪdˈiə ʌv ɹᵻtˈɜːnɪŋ ˌɪntʊ dˈɛvənʃɚɹ ɪmˈiːdɪətli.
@@ -498,18 +498,18 @@
 /kaggle/input/libritts-460/train-clean-460/6014/32904/6014_32904_000007_000003.wav|ðˈæt, tˈuː, plˈeɪnli ɹᵻfˈɜːz tʊ ɐ fˈɔːɹmɚ lˈɛtɚnˌɑːɾə wˈɜːd ʌvðə sˈɔːɹt.
 /kaggle/input/libritts-460/train-clean-460/5867/48852/5867_48852_000035_000003.wav|bˌʌt jˈɛt mˈɪsɪz dˈeɪl dɪdnˌɑːt dˈɛɹ tə ɡɛt ˌʌp ænd lˈiːv ðə ɹˈuːm.
 /kaggle/input/libritts-460/train-clean-460/8419/293469/8419_293469_000017_000000.wav|"aɪ hˈɜːd juː," kɹˈaɪd ðə kˈæɾɪdˌɪd, "ænd aɪ wˈʌndɚd wʌt wʌzðə mˈæɾɚ."
-/kaggle/input/libritts-460/train-clean-460/3790/140725/3790_140725_000005_000000.wav|mˈoːɹ ænd mˈoːɹ sɚpɹˈaɪzɪŋ θˈɪŋz stˈɪl 
-/kaggle/input/libritts-460/train-clean-460/6895/96175/6895_96175_000036_000003.wav|bˌʌt nˈaʊ, ɪf sˌʌm mˈoːɹ mˈɛn wʊd splˈɪŋ, ðeɪ wʊd biː tˈɔːt 
+/kaggle/input/libritts-460/train-clean-460/3790/140725/3790_140725_000005_000000.wav|mˈoːɹ ænd mˈoːɹ sɚpɹˈaɪzɪŋ θˈɪŋz stˈɪl
+/kaggle/input/libritts-460/train-clean-460/6895/96175/6895_96175_000036_000003.wav|bˌʌt nˈaʊ, ɪf sˌʌm mˈoːɹ mˈɛn wʊd splˈɪŋ, ðeɪ wʊd biː tˈɔːt
 /kaggle/input/libritts-460/train-clean-460/339/132717/339_132717_000087_000004.wav|ðeɪv ɡɑːt sˌʌm pɪkjˈuːlɪɹli ˈaɪsəlˌeɪɾᵻd vˈæli ɔːɹ tˈeɪbəllənd ˌʌp ðˈɛɹ, ænd ðɛɹ pɹaɪmˈiːvəl kˈʌstəmz hæv sɚvˈaɪvd. ðæts ˈɔːl ðˈɛɹ ɪz tʊ ɪt."
 /kaggle/input/libritts-460/train-clean-460/667/105002/667_105002_000036_000000.wav|nˈoʊ ˈænsɚ fɹʌmðə stˈɜːnli sˈɛt lˈɪps.
 /kaggle/input/libritts-460/train-clean-460/3972/5791/3972_5791_000013_000000.wav|"nˈoʊ, lˈɔːɹd mɑːntɡˈɑːmɚɹi, ɪɾ ɪz nˌɑːt ˌaʊɚ kˈɑːŋkɚɹɚ wiː ɑːɹ əpˈoʊzɪŋ; ɪɾ ɪz ɐ tɹˈeɪɾɚ, hˈuː, ˌʌndɚ ðə mˈæsk ʌv fɹˈɛndʃɪp, hɐz ɐtˈɛmptᵻd tə juːzˈɜːp ˌaʊɚ ɹˈaɪts, dᵻstɹˈɔɪ ˌaʊɚ lˈɪbɚɾiz, ænd mˌeɪk ɐ dˈɛzɚt ʌv ˌaʊɚ wˈʌns hˈæpi kˈʌntɹi.
 /kaggle/input/libritts-460/train-clean-460/8855/283228/8855_283228_000019_000006.wav|aɪ wˈɪʃ juː wʊd mˈæɹi ˈænti; bˌʌt ðæt wʊd nˈɛvɚ dˈuː.
 /kaggle/input/libritts-460/train-clean-460/8820/294114/8820_294114_000017_000003.wav|nˈɛvɚ hæd ðeɪ ɐpˈɪɹd sˌoʊ ˌɪnsɪɡnˈɪfɪkənt ænd pˈɔːltɹi æz ðˈɛn, wˌɛn hiː snˈɪft ˌoʊvɚ ðˌɛm wɪððɪ ˈɛɹ ʌv wˈʌn dɪsdˈeɪnfəli dˌuːɪŋ ɐ dˌɪsɐɡɹˈiːəbəl tˈæsk.
-/kaggle/input/libritts-460/train-clean-460/1382/130548/1382_130548_000080_000000.wav|ɐnˈaʊnst ɪn ɐ tˈoʊn ʌv pˈaɪəs sˌæɾɪsfˈækʃən 
+/kaggle/input/libritts-460/train-clean-460/1382/130548/1382_130548_000080_000000.wav|ɐnˈaʊnst ɪn ɐ tˈoʊn ʌv pˈaɪəs sˌæɾɪsfˈækʃən
 /kaggle/input/libritts-460/train-clean-460/242/122626/242_122626_000040_000000.wav|"wˌʌt! wˌʌt!" hiː kɹˈaɪd.
 /kaggle/input/libritts-460/train-clean-460/8747/293952/8747_293952_000140_000003.wav|mˈɪs bˌɛɹəŋɡˈɛɹiə tˈɜːnd tə bˈɛɹəl.
 /kaggle/input/libritts-460/train-clean-460/4018/107338/4018_107338_000033_000006.wav|juː wʊd θˈɪŋk mˌiː fˈuːlɪʃ; bˌʌt aɪɐm ɐlˈoʊn ɪnðə wˈɜːld, ænd sˈiːɪŋ juː ɐɡˈɛn, ænd tˈɔːkɪŋ ʌv ˈoʊld tˈaɪmzaɪ ɹˈiəli ɐm skˈɛɹsli fˈɪt fɔːɹ bˈɪznəs.
-/kaggle/input/libritts-460/train-clean-460/8580/287363/8580_287363_000003_000000.wav|tʃˈæptɚ nˈaɪnɐ wˈɔːɹnɪŋ baɪ wˈaɪɚləs 
+/kaggle/input/libritts-460/train-clean-460/8580/287363/8580_287363_000003_000000.wav|tʃˈæptɚ nˈaɪnɐ wˈɔːɹnɪŋ baɪ wˈaɪɚləs
 /kaggle/input/libritts-460/train-clean-460/669/129061/669_129061_000014_000000.wav|"ˈæftɚ ðə sˈækɹᵻfˌaɪsᵻz aɪ hæv mˈeɪd, ænd ðə mˈænɚ ɪnwˌɪtʃ aɪ hæv stˈʊd baɪ juː, aɪ θˈɪŋk ðɪs sˈɔːɹt ʌv ɹᵻpɹˈoʊtʃ ɪz jˈuːsləs," sˌɜː pˈɪt sˈɛd. "jʊɹ mˈæɹɪdʒ wʌz jʊɹ ˈoʊn dˈuːɪŋ, nˌɑːt mˈaɪn."
 /kaggle/input/libritts-460/train-clean-460/3032/19361/3032_19361_000058_000000.wav|æt lˈɛŋθ hiː hˈɪt əpˌɑːn ɐ pˈɔɪnt ðæt sˈiːmd nˌɪɹli ɹˈaɪt.
 /kaggle/input/libritts-460/train-clean-460/8195/117382/8195_117382_000055_000007.wav|hˌuː wɪl kˈʌm ænd biː maɪ mˈeɪt?"
@@ -540,7 +540,7 @@
 /kaggle/input/libritts-460/train-clean-460/3307/145138/3307_145138_000023_000005.wav|ʃiː lˈɪvz ɛksklˈuːsɪvli əpˌɑːn mətˈɜːnəl dɪvˈoʊʃən, ɐ kəmˈɛndəbəl bˌʌt ʌnsəbstˈænʃəl fˈɛɹ.
 /kaggle/input/libritts-460/train-clean-460/3482/170452/3482_170452_000067_000002.wav|hɜː ɹᵻplˈaɪ wʌz, ðæt ʃiː hæd nˈɛvɚ sˈiːn hˌɪm bᵻfˈoːɹ, nˈɔːɹ ˌɛni wˈʌn lˈaɪk hˌɪm.
 /kaggle/input/libritts-460/train-clean-460/8108/274318/8108_274318_000018_000001.wav|smˈoʊk wʌz ɐdvˈænsɪŋ əkɹˌɑːs ðə kˈɑːɹpɪt.
-/kaggle/input/libritts-460/train-clean-460/7120/76055/7120_76055_000046_000000.wav|sˈɛkʃən fˈoːɹ 
+/kaggle/input/libritts-460/train-clean-460/7120/76055/7120_76055_000046_000000.wav|sˈɛkʃən fˈoːɹ
 /kaggle/input/libritts-460/train-clean-460/7720/105168/7720_105168_000009_000000.wav|"ðeɪ ɑːɹ hˈʌntɪŋ fɔːɹ pˈɪsæŋz ænd sˈɪmɐtˌiːnz fˈɑːɹðɚ bˈæk ɪnðə fˈɔːɹɪst," ɹᵻplˈaɪd zˈuː tˈæɡ.
 /kaggle/input/libritts-460/train-clean-460/3230/137483/3230_137483_000083_000003.wav|aɪ tɹˈʌst ɪn jʊɹ fɹˈɛndʃɪp, ænd aɪ hæv ɐn ˈɪnwɚd sˈɜːtənti ðæt aɪʃˌɐl biː ˌɪndˈɛɾᵻd tə juː fɔːɹ maɪ ˈɑːnɚɹ æz wˈɛl æz fɔːɹ maɪ lˈaɪf."
 /kaggle/input/libritts-460/train-clean-460/5975/54006/5975_54006_000047_000003.wav|ˈɔːl ðə sˈɪɾi wʌz ʃɹˈaʊdᵻd ɪn ɡlˈuːm, ænd ˈɛvɹɪwˌɛɹ wʌz wˈiːpɪŋ ænd kɹˈaɪɪŋ.
@@ -571,7 +571,7 @@
 /kaggle/input/libritts-460/train-clean-460/7982/245691/7982_245691_000082_000001.wav|fɔːɹ hiː ɐdmˈɪɾᵻd ðæt ðɪs kʊd hˈæpən ɪnðə sˈɛnsᵻtˌɪv pˈɑːɹt, æz tə sˌʌm pˈaʊɚz, ɪnɐsmˈʌtʃ æz ðeɪ ɑːɹ ˈækts ʌv kˈɔːɹpoːɹˌiəl ˈɔːɹɡənz, ɪnwˌɪtʃ sˈɜːʔn̩ spˈiːsiːz mˈeɪ biː pɹɪzˈɜːvd ɐpˈɑːɹt fɹʌm ˈæktʃuːəl ˌæpɹihˈɛnʃən.
 /kaggle/input/libritts-460/train-clean-460/3615/14677/3615_14677_000056_000001.wav|lˈɛt bˈeɪk ænd fˈɪl wɪð tʃˈɑːpt ˈæpəlz, ɹˈeɪzənz ænd tʃˈɑːpt nˈʌts, ʃˈʊɡɚɹ ænd ɐ pˈɪntʃ ʌv sˈɪnəmən ænd nˈʌtmɛɡ.
 /kaggle/input/libritts-460/train-clean-460/5935/55927/5935_55927_000018_000002.wav|ðɪs mˈeɪ biː ɪfˈɛktᵻd, fɔːɹ ˈɪnstəns, ɪnðə kˈeɪs əvə pˈɛndʒuːləm wˈɜːkɪŋ ˈɛɹ kəmpɹˈɛsɚz, baɪ mˈaʊntɪŋ ðə lˈæɾɚɹ ˌɔn bˈɛɹɪŋz lˈaɪk ðoʊz ʌvðə ɡˈʌn kˈæɹɪdʒ ɪn ɐ fˈiːld pˈiːs, ænd hˌævɪŋ tˈuː ʌv ðˌɛm ˈɑːpɚɹˌeɪɾɪŋ wˈʌn æt ɹˈaɪt ˈæŋɡəlz tə ðɪ ˈʌðɚ.
-/kaggle/input/libritts-460/train-clean-460/369/125883/369_125883_000000_000000.wav|tʃˈæptɚ θˈɜːɾi sˈɪks 
+/kaggle/input/libritts-460/train-clean-460/369/125883/369_125883_000000_000000.wav|tʃˈæptɚ θˈɜːɾi sˈɪks
 /kaggle/input/libritts-460/train-clean-460/4018/107338/4018_107338_000023_000000.wav|"ˈɔːl ɪz vˈɛɹi wˈɛl æt ðɪs mˈoʊmənt," sˈɛd mˈɔːɹli, "ænd ˈɔːl mˈeɪ kəntˈɪnjuː wˈɛl; bˌʌt pˈɑːpjʊlɚɹ ɐsˈɛmblɪz bɹˈiːd tˈɜːbjʊlənt spˈɪɹɪts, sˈɪbɪl.
 /kaggle/input/libritts-460/train-clean-460/2741/159386/2741_159386_000005_000007.wav|ʃiː θˈɔːt ʌv hɜː bɹˈʌðɚz, ænd fˈɛlt ʃˈʊɹ ðæt ɡˈɑːd wʊd nˌɑːt fɔːɹsˈeɪk hɜː.
 /kaggle/input/libritts-460/train-clean-460/480/126336/480_126336_000012_000001.wav|dʒˈɔɪ wʌz ɪn ˈɛvɹi fˈeɪs ænd ˈɛvɹi hˈɑːɹt.
@@ -656,7 +656,7 @@
 /kaggle/input/libritts-460/train-clean-460/534/123059/534_123059_000029_000001.wav|ðə ɹˈʌnɚz ɑːɹ fɹˈoʊz fˈæst.
 /kaggle/input/libritts-460/train-clean-460/868/131294/868_131294_000014_000004.wav|ðə nˈeɪm ʌvðɪ ˈɑːɹɾɪst ɪz mˈoːɹ ɪmpˈoːɹtənt tə ðˌɛm ðɐn ðə kwˈɔlᵻɾi ʌvðə wˈɜːk.
 /kaggle/input/libritts-460/train-clean-460/6763/74797/6763_74797_000035_000000.wav|"aɪɐm ɐfɹˈeɪd aɪ duːnˌɑːt ˌʌndɚstˈænd juː, smˈɪθ," ʃiː ɹᵻtˈɜːnd, lˈʊkɪŋ mˈʌtʃ dɪstɹˈɛst.
-/kaggle/input/libritts-460/train-clean-460/7402/90848/7402_90848_000000_000000.wav|ðə lˈɔst hˈæf ˈaʊɚ 
+/kaggle/input/libritts-460/train-clean-460/7402/90848/7402_90848_000000_000000.wav|ðə lˈɔst hˈæf ˈaʊɚ
 /kaggle/input/libritts-460/train-clean-460/6064/300880/6064_300880_000045_000004.wav|ðə wˈʊdz aɪm sˈɛndɪŋ tə ðɪ ˈaɪlənd.
 /kaggle/input/libritts-460/train-clean-460/4441/76250/4441_76250_000070_000000.wav|"hˈoʊld jʊɹ tˈʌŋ wɛn aɪm spˈiːkɪŋ!
 /kaggle/input/libritts-460/train-clean-460/7515/100431/7515_100431_000009_000009.wav|ɪts wˈɜːθ tɹˈaɪɪŋ." hiː tɹˈaɪz, ænd ɪf hiː ɪz səfˈɪʃəntli ˈɛkspɜːt hiː pˈʊlz ɪɾ ˈɔf.
@@ -725,7 +725,7 @@
 /kaggle/input/libritts-460/train-clean-460/7555/105394/7555_105394_000002_000000.wav|lˈɪstləsli ʃiː sˈæt ɪnðə smˈɔːl, stˈɪl dᵻzˈɜːɾᵻd bˈuːdwɑːɹ, lˈʊkɪŋ ˈaʊt θɹuː ðə kˈɜːtənd dˈoːɹweɪ ɔnðə dˈænsɪŋ kˈʌpəlz bᵻjˈɔnd: lˈʊkɪŋ æt ðˌɛm, jˈɛt sˈiːɪŋ nˈʌθɪŋ, hˈɪɹɪŋ ðə mjˈuːzɪk, jˈɛt kˈɑːnʃəs ʌv nˈɔːt sˈeɪv ɐ fˈiːlɪŋ ʌv ɛkspˈɛktənsi, ʌv ˈæŋʃəs, wˈɪɹi wˈeɪɾɪŋ.
 /kaggle/input/libritts-460/train-clean-460/730/360/730_360_000004_000001.wav|fˈiːlɪks ɹᵻplˈaɪd ɪn ɐ tʃˈɪɹfəl ˈæksənt, ænd ðɪ ˈoʊld mˈæn wʌz ɹˌiːkəmˈɛnsɪŋ hɪz mjˈuːzɪk wɛn sˈʌmwʌn tˈæpt æt ðə dˈoːɹ.
 /kaggle/input/libritts-460/train-clean-460/4595/45204/4595_45204_000050_000000.wav|ðæt nˈaɪt, æz aɪ wʌz ɡˌoʊɪŋ kwˈaɪt lˈeɪt tə bˈɛd, bˈɛɹɪŋ ɐ kˈændəl tə lˈaɪt mˌiː θɹuː ðə dˈɑːɹk hˈɔːl tə maɪ ɹˈuːm, aɪ hˈɜːd ɐ kjˈʊɹɹiəs sˈaʊnd, æz ʌv sˈʌmwʌn wˈɔːkɪŋ stˈɛlθili θɹuː ðə hˈaʊs.
-/kaggle/input/libritts-460/train-clean-460/7316/10642/7316_10642_000026_000000.wav|mjˈuːzɪkəl skˈoːɹ ɛksˈɜːpt 
+/kaggle/input/libritts-460/train-clean-460/7316/10642/7316_10642_000026_000000.wav|mjˈuːzɪkəl skˈoːɹ ɛksˈɜːpt
 /kaggle/input/libritts-460/train-clean-460/6553/86683/6553_86683_000076_000000.wav|"blˈɛsɪŋz fɔːɹ ðæt əpˌɑːn juː ænd mˈeɪ ðə ɡˈʊd ɹɪzˈʌlts ɐkɹˈuː tə mˌiː, dwˈɑːnən.
 /kaggle/input/libritts-460/train-clean-460/2368/157057/2368_157057_000047_000000.wav|"ˈaɪ, dˈɑːktɚ, aɪm nˌɑːt ðə mˈæn tə dᵻspˈɛɹ; nˈoʊwˈʌn wʌz lˈɛs ˈɪɡnɚɹənt ðɐn aɪ ʌvðə pˈɛɹəlz ʌvðɪ ˈɛntɚpɹˌaɪz, bˌʌt aɪ dɪdnˌɑːt wˈɔnt tə sˈiː ðˌɛm, fɹʌmðə mˈoʊmənt ðæt juː dɪtˈɜːmɪnd tə bɹˈeɪv ðˌɛm.
 /kaggle/input/libritts-460/train-clean-460/1841/159771/1841_159771_000020_000000.wav|"ðɛɹz ðæt skwˈiːk ɐɡˈɛn!" hiː wˈɪspɚd.
@@ -759,10 +759,10 @@
 /kaggle/input/libritts-460/train-clean-460/2060/150855/2060_150855_000005_000002.wav|hiː dɪdnˌɑːt wˈɔnt hɜː tə fɚɡˈɛt ðə ɡɹˈeɪɾɪst mˈoʊmənt ɪn hɜː lˈaɪf.
 /kaggle/input/libritts-460/train-clean-460/8580/287364/8580_287364_000042_000003.wav|ðə lˈæd sˈɔː ɐ dˈɑːɹk fˈɪɡjɚ mˈuːvɪŋ, æz ɪf tə ɡɛt fˈɑːɹðɚɹ ˌaʊɾəv sˈaɪt.
 /kaggle/input/libritts-460/train-clean-460/707/161166/707_161166_000015_000002.wav|bˌʌt ðɪs pɹˈuːvz ɛntˈaɪɚli ʌnsəksˈɛsfəl; ænd æt lˈæst, ˈæftɚ wˈɜːlɪŋ ænd tˈʌmblɪŋ, tɹˈaɪɪŋ tə kɹˈiːp ˈʌndɚ; tɹˈaɪɪŋ tə lˈiːp ˈoʊvɚ, ɪt sˈɛɾəlz ɪtsˈɛlf kwˈaɪətli ɪn ɪts pɹˈɪzən, æz ɪf tə θˈɪŋk ɐbˌaʊt ðə mˈæɾɚ.
-/kaggle/input/libritts-460/train-clean-460/1081/128618/1081_128618_000013_000000.wav|pˈɜːtʃ ɐ ˈɛlˈælɪmˌænd 
+/kaggle/input/libritts-460/train-clean-460/1081/128618/1081_128618_000013_000000.wav|pˈɜːtʃ ɐ ˈɛlˈælɪmˌænd
 /kaggle/input/libritts-460/train-clean-460/5304/55856/5304_55856_000054_000000.wav|"juː dˈoʊnt nˈoʊ!" ɛksklˈeɪmd mˈɪstɚɹ ˈæʃɚ.
 /kaggle/input/libritts-460/train-clean-460/511/131228/511_131228_000045_000003.wav|"æz tə wˈɛns ɪt kˈeɪm, aɪ hæv nˈoʊ θˈiəɹi." nˌɛvɚðəlˈɛs hiː ɛndˈoːɹsᵻz ðə lˈoʊkəl ɛksplɐnˈeɪʃənænd ɐ bᵻzˈɑːɹ θˈɪŋ ɪɾ ˈɪz:
-/kaggle/input/libritts-460/train-clean-460/6437/66172/6437_66172_000001_000000.wav|tʃˈæptɚ nˈaɪnaɪ bɪkˌʌm ɐn ˈɑːɹ ˈɛm sˈiː 
+/kaggle/input/libritts-460/train-clean-460/6437/66172/6437_66172_000001_000000.wav|tʃˈæptɚ nˈaɪnaɪ bɪkˌʌm ɐn ˈɑːɹ ˈɛm sˈiː
 /kaggle/input/libritts-460/train-clean-460/1825/135580/1825_135580_000051_000000.wav|"jˈɛs, ɪf hiː ɡˈeɪv hɪmsˈɛlf lˈiːv, klˈɑːɹɹə," sˈɛd pˈeɪʃəns.
 /kaggle/input/libritts-460/train-clean-460/7766/109658/7766_109658_000073_000001.wav|hɪz stˈoːɹ wʌzɐ smˈɔːl wˌʌn, kəntˈeɪnɪŋ ɐ mˈɪkstʃɚɹ ʌv bˈʊks, stˈeɪʃənˌɛɹi, ænd fˈænsi ɹˈʌbɪʃ.
 /kaggle/input/libritts-460/train-clean-460/5802/76043/5802_76043_000033_000004.wav|dᵻspˈɛɹ lˈaɪk ðə dᵻspˈɛɹ ʌv tʃˈɪldɹən ðæt kæn wˈiːp ɪtsˈɛlf tə slˈiːp....
@@ -774,7 +774,7 @@
 /kaggle/input/libritts-460/train-clean-460/3615/14677/3615_14677_000019_000000.wav|tˈɛn.spˈænɪʃ kˈænəpˌeɪz.
 /kaggle/input/libritts-460/train-clean-460/7247/101864/7247_101864_000026_000000.wav|"baɪ dʒˈoʊv!" ɛksklˈeɪmd nˈɛd ˌʌndɚ hɪz bɹˈɛθ.
 /kaggle/input/libritts-460/train-clean-460/54/121079/54_121079_000113_000000.wav|"jˈoːɹz, ɪf juː lˈaɪk."
-/kaggle/input/libritts-460/train-clean-460/1383/130489/1383_130489_000074_000000.wav|hiː wʌz nˈʌθɪŋ ɪf nˌɑːt ɡɹˈændɪlˌɑːkwənt 
+/kaggle/input/libritts-460/train-clean-460/1383/130489/1383_130489_000074_000000.wav|hiː wʌz nˈʌθɪŋ ɪf nˌɑːt ɡɹˈændɪlˌɑːkwənt
 /kaggle/input/libritts-460/train-clean-460/5489/10988/5489_10988_000036_000000.wav|"aɪɐm ɐfɹˈeɪd aɪ dɪdnˌɑːt kˈætʃ jʊɹ nˈeɪm," sˈɛd mˈɪs ˈɛdwɚdz.
 /kaggle/input/libritts-460/train-clean-460/831/130746/831_130746_000006_000000.wav|"pˈʊɹ tʃˈæp!" sˈɛd ðə bˈɑːɹmeɪd.
 /kaggle/input/libritts-460/train-clean-460/3549/9203/3549_9203_000016_000001.wav|ɐmˈɪd ðə hˈɔːɹɪbəl kənfjˈuːʒən ʌvðə ɹˈæbaɪz θˈɔːts, ðɪ aɪdˈiə dˈɑːɹɾᵻd θɹuː hɪz bɹˈeɪn: "kæn aɪ biː ɔːlɹˌɛdi dˈɛd ðæt ðeɪ dɪdnˌɑːt sˈiː mˌiː?" ɐ hˈɪdiəs ɪmpɹˈɛʃən ɹˈaʊzd hˌɪm fɹʌm hɪz lˈɛθɚdʒi: ɪn lˈʊkɪŋ æt ðə wˈɔːl ɐɡˈɛnst wˌɪtʃ hɪz fˈeɪs wʌz pɹˈɛst, hiː ɪmˈædʒɪnd hiː bᵻhˈɛld tˈuː fˈɪɹs ˈaɪz wˈɑːtʃɪŋ hˌɪm!
@@ -797,7 +797,7 @@
 /kaggle/input/libritts-460/train-clean-460/8419/286667/8419_286667_000016_000000.wav|ʃiː tʃˈeɪndʒd, ænd stˈʊd ˌɔn hɜːɹ ˈʌðɚ lˈɛɡ.
 /kaggle/input/libritts-460/train-clean-460/2229/152864/2229_152864_000019_000000.wav|aɪ sˈæt sˈaɪlənt.
 /kaggle/input/libritts-460/train-clean-460/510/130103/510_130103_000022_000002.wav|ˈiːtʃ bˈoʊn ʌv hɪz bˈɑːdi hæd ɐn ˈeɪk ɪn ɪt, ænd sˈiːmɪŋli θɹˈɛʔn̩d tə bɹˈeɪk wɪð ˈiːtʃ mˈuːvmənt.
-/kaggle/input/libritts-460/train-clean-460/188/135249/188_135249_000003_000000.wav|ðə hˈaʊs ʌv dɹˈiːmz 
+/kaggle/input/libritts-460/train-clean-460/188/135249/188_135249_000003_000000.wav|ðə hˈaʊs ʌv dɹˈiːmz
 /kaggle/input/libritts-460/train-clean-460/3294/167597/3294_167597_000004_000003.wav|æz pɹˈuːf ʌv ðɪs ðə pˈɛzənt hæd bɹˈɔːt fɹʌm vˌɪslaʊkhˈoʊvoʊ ɐ hˈʌndɹɪd ɹˈuːbəlz ɪn nˈoʊts hiː dɪdnˌɑːt nˈoʊ ðæt ðeɪ wɜː fˈɔls pˈeɪd tə hˌɪm ɪn ɐdvˈæns fɔːɹ hˈeɪ.
 /kaggle/input/libritts-460/train-clean-460/7240/92202/7240_92202_000002_000003.wav|ɐsˈaɪd fɹʌm ðˈɪs, hiː wʌz mˈæstɚɹ ʌv hɪz tˈaɪm.
 /kaggle/input/libritts-460/train-clean-460/5622/44586/5622_44586_000043_000002.wav|æz ðə bɹˈɛθ ɪz tˈeɪkən jʊɹ hˈændz wɪl biː fˈoːɹst ˈaʊt.
@@ -813,7 +813,7 @@
 /kaggle/input/libritts-460/train-clean-460/6701/71402/6701_71402_000125_000000.wav|"wˈeɪt! wˈeɪt!
 /kaggle/input/libritts-460/train-clean-460/64/76973/64_76973_000032_000000.wav|"aɪm kˈʌmɪŋ," sˈɛd tˈæd ɪn ɐ kwˈaɪət, tˈɛns vˈɔɪs.
 /kaggle/input/libritts-460/train-clean-460/7139/88748/7139_88748_000029_000000.wav|"ðæt mˌeɪd mˌiː θˈɪŋk ˈɔːl ðə mˈoːɹ, ænd wˈʌn dˈeɪ aɪ mˈænɪdʒd tə fˈɑːloʊ hˌɪm bˌʌt ɐmˌʌŋ ðə tɹˈiːz tʊ wˌɛɹ aɪ fˈaʊnd hˌɪm fˈiːdɪŋ wˈʌn ʌvðə wˈaɪld dˈɪɹ, wˌɪtʃ fˈɑːloʊd hˌɪm ɐbˌaʊt lˈaɪk ɐ dˈɑːɡ."
-/kaggle/input/libritts-460/train-clean-460/1379/130529/1379_130529_000130_000000.wav|aɪ ɡɹˈeɪtli dᵻplˈoːɹ 
+/kaggle/input/libritts-460/train-clean-460/1379/130529/1379_130529_000130_000000.wav|aɪ ɡɹˈeɪtli dᵻplˈoːɹ
 /kaggle/input/libritts-460/train-clean-460/718/129596/718_129596_000021_000000.wav|aɪ wʌz pɚhˈæps ɐ dˈʌzən sˈɛkəndz kəlˈɛktɪŋ maɪsˈɛlf.
 /kaggle/input/libritts-460/train-clean-460/4133/6541/4133_6541_000014_000001.wav|ˌɔn ˌaʊɚ smˈɔːl hˈiːɾɪŋ stˈoʊv stˈændz ɐ sɪlˈɪndɹɪkəl ˈaɪs mˈɛltɚ wˌɪtʃ kˈiːps ˌʌp ðə səplˈaɪ ʌv wˈɔːɾɚ nˈɛsᵻsɚɹi fɚðə dˈɑːɹk ɹˈuːm ænd ˈʌðɚ saɪəntˈɪfɪk ˈɪnstɹəmənts.
 /kaggle/input/libritts-460/train-clean-460/8855/283242/8855_283242_000109_000001.wav|hiː tˈɜːnd ˌɔn hɪz hˈiːl.
@@ -848,7 +848,7 @@
 /kaggle/input/libritts-460/train-clean-460/4595/45217/4595_45217_000052_000000.wav|"wˌaɪ dˈɪdnt juː tˈɛl mˌiː ðɪs fjˈuːdəl ˌɪmɪtˈeɪʃən wʌz hˈɔːntᵻd?" ˈæskt lˈæɹi, ɪn ɐ ɡɹˈiːvd tˈoʊn.
 /kaggle/input/libritts-460/train-clean-460/1638/84447/1638_84447_000136_000000.wav|"nˈɛvɚ, fˈɑːðɚ!" kɹˈaɪd ðeɪ ˈɔːl.
 /kaggle/input/libritts-460/train-clean-460/7525/101265/7525_101265_000046_000001.wav|ˌʌp ʃiː dʒˈʌmpt, sˈiːzd hɜː bˈæskɪt, ænd ɹᵻpˈiːɾᵻd ðə mˈædʒɪk wˈɜːdz, ænd bᵻhˈoʊld! ðɛɹ lˈeɪ ɐ dɹˈɛs ɔnðə bˈɛd, ʃˈaɪnɪŋ æz ɐ stˈɑːɹ.
-/kaggle/input/libritts-460/train-clean-460/1851/148312/1851_148312_000057_000002.wav|bˌʌt ðə sˈɜːvənt kˈʌmɪŋ bˈæk, sˈɛd 
+/kaggle/input/libritts-460/train-clean-460/1851/148312/1851_148312_000057_000002.wav|bˌʌt ðə sˈɜːvənt kˈʌmɪŋ bˈæk, sˈɛd
 /kaggle/input/libritts-460/train-clean-460/7833/102239/7833_102239_000009_000001.wav|wˈiːt wʌz fˈɪfti sˈɛnts ɐ bˈʊʃəl, ɹˈaɪ θˈɜːɾi θɹˈiː; kˈɔːɹn ænd ˈoʊts wɜː twˈɛnti fˈaɪv, pətˈeɪɾoʊz twˈɛnti fˈaɪv; bˈʌɾɚ wʌz ˈeɪt sˈɛnts ɐ pˈaʊnd, ænd ˈɛɡz wɜːɹ ˈeɪt sˈɛnts ɐ dˈʌzən; pˈoːɹk wʌz tˈuː ænd ɐ hˈæf sˈɛnts ɐ pˈaʊnd.
 /kaggle/input/libritts-460/train-clean-460/8848/293963/8848_293963_000059_000001.wav|"ˈæftɚɹ ˈɔːl, hɜː kənfˈɛʃən mˈɛnt hˈæŋɪŋ tə hɜː.
 /kaggle/input/libritts-460/train-clean-460/2920/156230/2920_156230_000004_000001.wav|wˌɛn ʃiː kˈeɪm hˈoʊm ˈæftɚɹ ɐ lˈɔŋ dˈeɪz wˈɜːk, ʃiː θˈɔːt ʃiː ˈɔːt tə tɹˈaɪ tə kˈiːp ˌʌp ɐ lˈɪɾəl ʌv hɜː sˈɪstɚz dˈɪsɪplˌɪn wɪððə lˈoʊɹiz, ænd wɛnt ˌoʊvɚ ðɛɹ lˈɛsənz wɪð ðˌɛm.
@@ -999,7 +999,7 @@
 /kaggle/input/libritts-460/train-clean-460/476/133471/476_133471_000042_000001.wav|"jʊɹ ɐ bˈɪt mɪstˈeɪkən.
 /kaggle/input/libritts-460/train-clean-460/4195/186238/4195_186238_000022_000000.wav|"maɪ dˈɪɹ mˈɪstɚ mˈɛɹɪk!" hiː ɛksklˈeɪmd, "aɪm dᵻlˈaɪɾᵻd ænd ˈɑːnɚd tə sˈiː juː hˈɪɹ.
 /kaggle/input/libritts-460/train-clean-460/8098/278278/8098_278278_000021_000001.wav|ðæt wʌz maɪ ɛkspˈiəɹɪəns ɪnðə wˈʊdz ʌv wɪskˈɑːnsɪn.
-/kaggle/input/libritts-460/train-clean-460/1641/130505/1641_130505_000016_000000.wav|lˈaɪk ðə fˈeɪnt ɛkskwˈɪsɪt mjˈuːzɪk əvə dɹˈiːm 
+/kaggle/input/libritts-460/train-clean-460/1641/130505/1641_130505_000016_000000.wav|lˈaɪk ðə fˈeɪnt ɛkskwˈɪsɪt mjˈuːzɪk əvə dɹˈiːm
 /kaggle/input/libritts-460/train-clean-460/3483/174132/3483_174132_000014_000002.wav|nˈaʊ, haʊˈɛvɚ, aɪ sˈɔː ðˌɐɾɪt wʌz nˌɑːt sˈoʊ; fɚðə kˈændəlz bˈɜːnd wɪð ɐ stˈɛdi flˈeɪm, ænd ʃˈoʊd nˈoʊ sˈaɪnz ʌv ɡˌoʊɪŋ ˈaʊt, æz wʊdhɐv bˌɪn ðə kˈeɪs hæd ðə tʃˈeɪndʒ bˌɪn dˈuː tə fjˈuːmz ɪnðɪ ˈætməsfˌɪɹ.
 /kaggle/input/libritts-460/train-clean-460/1649/5776/1649_5776_000018_000000.wav|lˈiːnɪŋ ɔnðə ʃˈæɾɚd stˈʌmp əvən ˈoʊld tɹˈiː, hiː fˈɪkst hɪz ˈaɪz ɔnðə fˈɑːɹ stɹˈɛtʃɪŋ plˈeɪn, wˌɪtʃ ɐlˈoʊn sˈiːmd tə dᵻvˈaɪd hˌɪm fɹʌmðə vˈɛnɚɹəbəl sˌɜː ɹˈɑːnəld kɹˈɔːfɚd ænd hɪz jˈuːθfəl hˈɔːnts æɾ ˈɛɹ.
 /kaggle/input/libritts-460/train-clean-460/7538/100045/7538_100045_000028_000000.wav|"jˈɛs, hiː hɐz ɐ ɡˈʊd məʃˈiːn," kənsˈiːdᵻd tˈɑːm.
@@ -1044,19 +1044,19 @@
 /kaggle/input/libritts-460/train-clean-460/4243/14929/4243_14929_000014_000012.wav|tˈeɪlʃˌʊd biː ɐbˌaʊt sˈɛvən ˈɪntʃᵻz lˈɔŋ, nˈɛvɚ dˈɑːkt, kˈæɹid wɪð ɐ slˈaɪt bˈɛnd ænd ˈɔfən ɡˈeɪli.
 /kaggle/input/libritts-460/train-clean-460/188/136483/188_136483_000014_000003.wav|ænd bᵻlˈiːv mˌiː, hiː kæn nˈɑːt nˈoʊ sˈoʊ mˌʌtʃ ɐbˌaʊɾɐbˌaʊt jʊɹ tɹˈʌbəl, æz ðɪs ɡɹˈeɪt dˈɑːktɚ dˈʌz, hˌuː wɪl kˈʌm fɹʌm nˈuː jˈɔːɹk tə mˈɑːɹoʊ."
 /kaggle/input/libritts-460/train-clean-460/2853/164187/2853_164187_000028_000004.wav|twˈɛmloʊsˈʌtʃ ɐ sˈɪvəl mˈæn tˈɛlz mˌiː ðæt hiː θˈɪŋks wiːʃˌɐl hæv plˈɛnti ʌv fˈuːd, ɔːɹ ˈɛnɪhˌaʊ səfˈɪʃənt fɔːɹ ˈɛvɹɪbˌɑːdi fɔːɹ kwˈaɪt ɐ lˈɔŋ tˈaɪm, pɹəvˈaɪdᵻd ðæt ðɛɹz nˈoʊ hˈoːɹdɪŋ.
-/kaggle/input/libritts-460/train-clean-460/1382/130516/1382_130516_000069_000000.wav|ɪts ɪŋkənsˈiːvəbəl ðˌɐɾɪt ʃˌʊd ˈɛvɚ biː nˈɛsᵻsɚɹi 
+/kaggle/input/libritts-460/train-clean-460/1382/130516/1382_130516_000069_000000.wav|ɪts ɪŋkənsˈiːvəbəl ðˌɐɾɪt ʃˌʊd ˈɛvɚ biː nˈɛsᵻsɚɹi
 /kaggle/input/libritts-460/train-clean-460/831/130746/831_130746_000059_000001.wav|bˌʌt hiː hæd nˈoʊ ˈædɪkwət ˈænsɚ.
 /kaggle/input/libritts-460/train-clean-460/1502/122619/1502_122619_000043_000001.wav|ðə ɹˈiːsənt dᵻfˈɛkʃən ʌvðə tɹˈaɪb hˌæd, æz ðeɪ wˈɛl nˈuː ðɛmsˈɛlvz, sˈʌbdʒɛktᵻd ðə dˈɛlɐwˌɛɹz tə mˈʌtʃ ɹᵻpɹˈoʊtʃ ɐmˌʌŋ ðɛɹ fɹˈɛntʃ ˈælaɪz; ænd ðeɪ wɜː nˈaʊ mˌeɪd tə fˈiːl ðæt ðɛɹ fjˈuːtʃɚɹ ˈækʃənz wɜː təbi ɹᵻɡˈɑːɹdᵻd wɪð dʒˈɛləsi ænd dɪstɹˈʌst.
 /kaggle/input/libritts-460/train-clean-460/289/121665/289_121665_000049_000000.wav|nˈʌθɪŋ wʌz lˈɛft tʊ ˈiːtʃ ʃˈiːp bˌʌt ɐ wˈiː lˈɪɾəl stˈʌmp wˌɛɹ ɐ tˈeɪl ʃˌʊd bˈiː, ænd lˈɪɾəl bˈoʊ pˈiːp wʌz sˌoʊ hˈɑːɹt bɹˈoʊkən ðæt ʃiː sˈæt dˌaʊn bᵻsˌaɪd ðˌɛm ænd sˈɑːbd bˈɪɾɚli.
 /kaggle/input/libritts-460/train-clean-460/2230/124587/2230_124587_000025_000005.wav|ðɪ ˈoʊnli ˈaʊtlɛt fɹʌmðə ɹˈoʊd wɪðˌɪn fˈoːɹ tˈaɪmz ðæt dˈɪstəns wʌzðə ɡˈeɪtweɪ lˈiːdɪŋ ˌɪntʊ stˈoʊlɪvɚz hˈaʊs.
 /kaggle/input/libritts-460/train-clean-460/1603/139325/1603_139325_000056_000000.wav|hˈɛlən mˌeɪd ɐ stˈɛp təwˈɔːɹdz ɡɹˈeɪəm.
 /kaggle/input/libritts-460/train-clean-460/2436/2477/2436_2477_000043_000005.wav|wˈaɪld ˈaɪd, tʃˈeɪsɪŋ ɐ fˈæntəm"
-/kaggle/input/libritts-460/train-clean-460/1379/130530/1379_130530_000179_000000.wav|aɪ hˈoʊp təbi ɛkskjˈuːst ɪf 
+/kaggle/input/libritts-460/train-clean-460/1379/130530/1379_130530_000179_000000.wav|aɪ hˈoʊp təbi ɛkskjˈuːst ɪf
 /kaggle/input/libritts-460/train-clean-460/83/11691/83_11691_000043_000004.wav|juː mˈɑːɹk maɪ wˈɜːdz, kˈɔːɹoʊnəl; ʃiː dˈɪd ɪt."
 /kaggle/input/libritts-460/train-clean-460/7816/108620/7816_108620_000002_000002.wav|aɪ tˈɜːnd maɪ hˈɛd, ænd ʃˌæl nˈɛvɚ fɚɡˈɛt ðɪ ɛkstˈæɾɪk dʒˈɔɪ wˌɪtʃ θɹˈɪld θɹuː ˈɛvɹi pˈɑːɹɾɪkəl ʌv maɪ fɹˈeɪm, wˌɛn aɪ pɚsˈiːvd ɐ lˈɑːɹdʒ bɹˈɪɡ bˈɛɹɪŋ dˈaʊn əpˌɑːn ˌʌs, ænd nˌɑːt mˈoːɹ ðˌænə kˈʌpəl ʌv mˈaɪlz ˈɔf.
 /kaggle/input/libritts-460/train-clean-460/2573/186232/2573_186232_000051_000000.wav|hɜː ɹˈiːsənt kwˈɛstʃənɪŋz hæd pɹɪpˈɛɹd hˌɪm fɔːɹ sˌʌm ˈækt ʌv duːplˈɪsᵻɾi, bˌʌt hiː hæd baɪ nˈoʊ mˈiːnz ˌʌndɚstˈʊd hɜː pɹˈɛzənt ˈɑːbdʒɛkt, nˈɔːɹ dˈɪd ʃiː mˈiːn ðæt hiː ʃˈʊd.
 /kaggle/input/libritts-460/train-clean-460/8838/298545/8838_298545_000078_000005.wav|"hˌaʊ kæn aɪ fˈaɪt fɚðə kˈoʊl pˈɪts?" sˈɛd hiː.
-/kaggle/input/libritts-460/train-clean-460/1382/130492/1382_130492_000120_000000.wav|sˈʌdənli ˌoʊvɚɹˈɔːd baɪ ɐ stɹˈeɪndʒ, dᵻlˈɪʃəs ʃˈaɪnəs 
+/kaggle/input/libritts-460/train-clean-460/1382/130492/1382_130492_000120_000000.wav|sˈʌdənli ˌoʊvɚɹˈɔːd baɪ ɐ stɹˈeɪndʒ, dᵻlˈɪʃəs ʃˈaɪnəs
 /kaggle/input/libritts-460/train-clean-460/1069/133699/1069_133699_000067_000005.wav|juː ɐdmˈɪɾᵻd ðæt juː wɜːɹ ʌnɹˈiːzənəbəl, ænd ɪt wʌzðɪ ˈoʊnli kənsˈɛʃən juː wʊd mˈeɪk; bˌʌt ɪt wʌzɐ vˈɛɹi tʃˈiːp wˌʌn, bɪkˈʌz ðæts nˌɑːt jʊɹ kˈæɹɪktɚ.
 /kaggle/input/libritts-460/train-clean-460/968/122544/968_122544_000026_000004.wav|ɪn ˈɔːl ðˌaɪ wˈeɪz ɐknˈɑːlɪdʒ hˌɪm, ænd hiː ʃˌæl dᵻɹˈɛkt ðˌaɪ pˈæθs." ˈeɪntʃənt mˈɑːɹtʃɪŋ ˈɔːɹdɚz, ænd sˈɪmpəl; bˌʌt tɹˈuː, ænd ðˈɛɹfoːɹ ɪtˈɜːnəl.
 /kaggle/input/libritts-460/train-clean-460/4595/45218/4595_45218_000039_000000.wav|"nˈoʊ;"—ʃiː smˈaɪld slˈaɪtli—"aɪ θˈɔːt—aɪ bᵻlˈiːv aɪ hæv sˈɛd ðɪs tə juː bᵻfˈoːɹ!—juː wɜːɹ ɐ dʒˈɛntəlmən. aɪ ɹˈiəli dˈɪd, mˈɪstɚ ɡlˈɛnɑːɹm.
@@ -1109,7 +1109,7 @@
 /kaggle/input/libritts-460/train-clean-460/8825/292253/8825_292253_000022_000001.wav|hɜː lˈænd ɪz spˈaɪkt wɪð ɡlˈɪsənɪŋ mˈɑːnjuːmənts tə ɡɹˈeɪtnəs ɡˈɔn.
 /kaggle/input/libritts-460/train-clean-460/4289/21393/4289_21393_000048_000002.wav|ɪn ˈiːtʃ əv ðɛɹ kˈeɪsᵻz aɪɐm sˈæɾɪsfˌaɪd æz tʊ wˈaɪ,æz wˈɛl æz ɐbˌaʊt fˈɑːðɚ.
 /kaggle/input/libritts-460/train-clean-460/639/124526/639_124526_000032_000002.wav|dʒˈuːlɪəs ɡɑːt wˈɛl.
-/kaggle/input/libritts-460/train-clean-460/3967/292604/3967_292604_000001_000000.wav|tˈɛlz əvən ɛkstɹˈoːɹdɪnˌɛɹi ˈɪnsɪdənt ɪn kˈʌlən mˈeɪlz bˈɛdɹuːm 
+/kaggle/input/libritts-460/train-clean-460/3967/292604/3967_292604_000001_000000.wav|tˈɛlz əvən ɛkstɹˈoːɹdɪnˌɛɹi ˈɪnsɪdənt ɪn kˈʌlən mˈeɪlz bˈɛdɹuːm
 /kaggle/input/libritts-460/train-clean-460/6269/66184/6269_66184_000024_000000.wav|wiː ɐdˈɑːptᵻd ˈʌŋkəl snˈoʊz vjˈuːz sˈoʊ fˌɑːɹ æz tʊ ɐksˈiːd tə hɪz pɹˌɑːpəzˈɪʃən fˈɔːɹθwɪθ.
 /kaggle/input/libritts-460/train-clean-460/6454/93938/6454_93938_000017_000002.wav|ɪt wʌz dᵻnˈaɪd, æz wʌz tə hɐvbɪn ɛkspˈɛktᵻd; ˌɪndˈiːd, wˌaɪ ðeɪ tˈʊk ðə tɹˈʌbəl tə ɡˌoʊ θɹuː ðə fˈɔːɹmz wʌz bᵻjˈɔnd mˌiː.
 /kaggle/input/libritts-460/train-clean-460/6189/21305/6189_21305_000092_000009.wav|ɪt wʌzðə vˈɛɹi kəmplˈɛksᵻɾi ænd pˈʌzəl ʌvðə kˈæɹɪktɚ ðæt mˌeɪd ɪts fˈoːɹs.
@@ -1121,7 +1121,7 @@
 /kaggle/input/libritts-460/train-clean-460/667/107247/667_107247_000036_000000.wav|ænd æz ʃiː tˈɔːkt tə hɜː hˈʌsbənd ˈænə pˈævlʌvnə lˈʊkt θˈɪnɚ, ˈoʊldɚ, plˈeɪnɚ.
 /kaggle/input/libritts-460/train-clean-460/5810/8674/5810_8674_000030_000003.wav|æz hiː hæd dˈʌn tə ðə pɹˈɪns, sˌoʊ ðə pɹˈɪns dˈɪd tə hˌɪm, ænd, blˈaɪndᵻd, hiː wʌz θɹˈʌst fˈɔːɹθ, ænd fˈɛl dˌaʊn ɐ dˈiːp hˈoʊl, wˌɛɹ hiː ɪz tə ðɪs dˈeɪ.
 /kaggle/input/libritts-460/train-clean-460/398/123602/398_123602_000034_000001.wav|ɪt sˈaʊndᵻd lˈaɪk ðə stɹˈeɪndʒ wˈɔːɹnɪŋ wˈeɪv ðæt ɡˈɪvz nˈoʊɾɪs ʌvðə tˈɜːn ʌvðə tˈaɪd.
-/kaggle/input/libritts-460/train-clean-460/707/161166/707_161166_000009_000000.wav|nˈæniz ɹˈʌn 
+/kaggle/input/libritts-460/train-clean-460/707/161166/707_161166_000009_000000.wav|nˈæniz ɹˈʌn
 /kaggle/input/libritts-460/train-clean-460/119/129515/119_129515_000012_000000.wav|fɹʌm ðæt dˈeɪ fˈɔːɹwɚd ɪmpˈaɪ bˈɑːɹbɪkˌeɪn bɪkˌeɪm wˈʌn ʌvðə ɡɹˈeɪɾɪst sˈɪɾɪzənz ʌvðə juːnˈaɪɾᵻd stˈeɪts, ɐ kˈaɪnd ʌv wˈɑːʃɪŋtən ʌv sˈaɪəns. ɐ sˈɪŋɡəl tɹˈeɪt ʌv fˈiːlɪŋ, tˈeɪkən fɹʌm mˈɛni ˈʌðɚz, wɪl sˈɜːv tə ʃˈoʊ ðə pˈɔɪnt wˌɪtʃ ðɪs hˈɑːmɪdʒ əvə hˈoʊl pˈiːpəl tʊ ɐ sˈɪŋɡəl ˌɪndᵻvˈɪdʒuːəl ɐtˈeɪnd.
 /kaggle/input/libritts-460/train-clean-460/8388/275212/8388_275212_000017_000000.wav|"ðeɪ ɑːɹ pɹˈɪnsɛsᵻz," sˈɛd ðə kwˈiːn, "sˌoʊ juː mˈʌst tɹˈiːt ðˌɛm wˈɛl.
 /kaggle/input/libritts-460/train-clean-460/5339/14134/5339_14134_000064_000002.wav|ʃiː hæd tˈɔːkt ɐbˌaʊt ɪt tə kˈɪnɹeɪd ænd hɜː fˈɑːðɚɹ ɪn ˈɔːɹdɚ tə kˈʌvɚ hɜː ɹᵻɡɹˈɛt æt hɜː lˈʌvɚz ɐkˈʌmpəniɪŋ hɜː fˈɑːðɚ tə sˈiː sˌʌm nˈuː kˈaɪnd ʌv hɑːɹpˈuːn ɐbˌaʊt wˌɪtʃ ðə lˈæɾɚ hæd spˈoʊkən.
@@ -1150,7 +1150,7 @@
 /kaggle/input/libritts-460/train-clean-460/1283/136983/1283_136983_000072_000001.wav|nˈoʊ, juː fˈuːl, aɪ duːnˌɑːt klˈæs juː wɪð maɪsˈɛlf!
 /kaggle/input/libritts-460/train-clean-460/8108/280359/8108_280359_000013_000002.wav|ðɪ ˈaɪz ʌvðə tˈuː mˈɛt ænd fˈɪkst ˈiːtʃ ˈʌðɚ.
 /kaggle/input/libritts-460/train-clean-460/296/142727/296_142727_000011_000000.wav|baɪ ðə sˈaɪd ʌv ɪmˈoʊʃən wiː mˈeɪ plˈeɪs, æz dᵻmˈændɪŋ ðə sˈeɪm ˌænɐlˈɪɾɪkəl stˈʌdi, ðə fˈiːlɪŋ ʌv ˈɛfɚt.
-/kaggle/input/libritts-460/train-clean-460/7395/89882/7395_89882_000013_000001.wav|hˌaʊ ənˈoːɹɪəs, hˌuː səksˈiːdᵻd dʒˈʌstəs ɪnðə bˈɪʃəpɹˌɪk ʌv kˈæntɚbˌɛɹi, ɹᵻsˈiːvd ðə pˈɔːl ænd lˈɛɾɚz fɹʌm pˈoʊp ənˈoːɹɪəs. sˈɪks θˈɜːɾi fˈoːɹ ɐ dˈiː 
+/kaggle/input/libritts-460/train-clean-460/7395/89882/7395_89882_000013_000001.wav|hˌaʊ ənˈoːɹɪəs, hˌuː səksˈiːdᵻd dʒˈʌstəs ɪnðə bˈɪʃəpɹˌɪk ʌv kˈæntɚbˌɛɹi, ɹᵻsˈiːvd ðə pˈɔːl ænd lˈɛɾɚz fɹʌm pˈoʊp ənˈoːɹɪəs. sˈɪks θˈɜːɾi fˈoːɹ ɐ dˈiː
 /kaggle/input/libritts-460/train-clean-460/4800/38660/4800_38660_000013_000006.wav|ɪt wʌz vˈɛɹi ɪmpˈoːɹtənt, hiː sˈɛd, ðæt nˈoʊ ˈɛɹ ʃˌʊd biː ɐdmˈɪɾᵻd tə ðə bˈɑːɾəl, ɛksˈɛpt wɛn ðɛɹwˌʌz ɐn ˈæktʃuːəl nəsˈɛsɪɾi fɔːɹ ɐdmˈɪnɪstɚɹɪŋ ðə ɹˈɛmədi.
 /kaggle/input/libritts-460/train-clean-460/6499/87508/6499_87508_000014_000002.wav|wʊd tə ɡˈɑːd ðæt ðɪs tˈʌtʃɪŋ ænd ˈɛdᵻfˌaɪɪŋ tʃˈæɹᵻɾi ɹᵻplˈeɪst ðə lˈoʊ ænd ɹˈæmpənt vˈaɪs ʌv dʒˈɛləsi!
 /kaggle/input/libritts-460/train-clean-460/598/127704/598_127704_000009_000000.wav|tə ðə wˈɛstwɚd ðə lˈændskeɪp ɪz mˌeɪd ˌʌp ʌv ɛksˈiːdɪŋli stɹˈɔŋ, ɡɹˈeɪ, ɡlˈeɪsɪˌeɪɾᵻd dˈoʊmz ænd ɹˈɪdʒ wˈeɪvz, mˈoʊst əv ðˌɛm kəmpˈæɹətˌɪvli lˈoʊ, bˌʌt ðə lˈɑːɹdʒɪst hˈaɪ ɪnˈʌf təbi kˈɔːld mˈaʊntɪnz; sˈɛpɚɹˌeɪɾᵻd baɪ kˈænɪənz ænd dˈɑːɹkənd wɪð lˈaɪnz ænd fˈiːldz ʌv fˈɔːɹɪst, kɐθˈiːdɹəl pˈiːk ænd mˈaʊnt hˈɑːfmən ɪnðə dˈɪstəns; smˈɔːl lˈeɪks ænd ɪnˈuːmɚɹəbəl mˈɛdoʊz ɪnðə fˈɔːɹɡɹaʊnd.
@@ -1188,7 +1188,7 @@
 /kaggle/input/libritts-460/train-clean-460/1348/135826/1348_135826_000023_000001.wav|ɐ kˈæt ɪz nˈɪblɚz wˈɜːst ˈɛnəmi.
 /kaggle/input/libritts-460/train-clean-460/7594/81881/7594_81881_000004_000004.wav|ɔnðɪ ˈʌðɚ hˈænd, sˈiːləz fˈɪn, wɪð hɪz ɛnθˈuːziˌæzəmz, ænd hɪz ˈæspɛkt əvən ɪnspˈaɪɚd pɹˈɑːfɪt, mˌeɪd ɐlˈɑːɹmɪŋ pɹˈɑːɡɹɛs.
 /kaggle/input/libritts-460/train-clean-460/612/121766/612_121766_000035_000004.wav|aɪ kˌʊdɐv ɹˈiːzənd wɪð hɜːɹ ɔnðə mˈæɾɚ, ænd ʃˈoʊn hɜː ðæt ʃiː wʌz nˌɑːt mˈɪɹli ɐ θˈiːf, bˌʌt ɐ θˈiːf ʌvðə wˈɜːst kˈaɪnd, ɐ dʒˈuːdəz hˌuː ɹˈɑːbd ðə pˈʊɹ, ænd sˌoʊ ɹˈɑːbd ɡˈɑːd.
-/kaggle/input/libritts-460/train-clean-460/6294/86679/6294_86679_000000_000000.wav|kənˈɔːl jˈɛloʊklˌɔː 
+/kaggle/input/libritts-460/train-clean-460/6294/86679/6294_86679_000000_000000.wav|kənˈɔːl jˈɛloʊklˌɔː
 /kaggle/input/libritts-460/train-clean-460/6006/57831/6006_57831_000002_000006.wav|hiː ˈɔːɹdɚd ɹˈaɪt wˈiːl ˌɪntʊ lˈaɪn təbi sˈaʊndᵻd.
 /kaggle/input/libritts-460/train-clean-460/6215/62347/6215_62347_000034_000000.wav|"ɪf ɪɾ ɪz sˈɛɾəld aɪ hˈoʊp ðˌɐɾɪt mˈeɪ biː fɔːɹ jʊɹ lˈæstɪŋ hˈæpɪnəs ænd ɪtˈɜːnəl wˈɛlfɛɹ."
 /kaggle/input/libritts-460/train-clean-460/7939/120325/7939_120325_000029_000000.wav|"ðə pˈʊɹ pˈiːpəl ɪn ðɪs tˈaʊn ɑːɹ sˈʌfɚɹɪŋ ænd dˈaɪɪŋ!" kɹˈaɪd sˈæmjuːl. "ænd ðeɪ ɑːɹ bˌiːɪŋ ɹˈɑːbd ænd əpɹˈɛst.
@@ -1427,105 +1427,105 @@
 /kaggle/input/libritts-460/train-clean-460/2436/2481/2436_2481_000046_000002.wav|aɪ sˈɜːtʃt fɔːɹ ɪt, pɹˈaɪd ɪt lˈuːs sˈɔftli.
 /kaggle/input/libritts-460/train-clean-460/7720/105168/7720_105168_000004_000003.wav|hɪz nˈɑːlɪdʒ ʌvðə wˈeɪz ʌvðə dˈɛnɪzənz ʌvðə wˈɔːɾɚ tˈoʊld hˌɪm wˌɛɹ tə wˈeɪt fɔːɹ pˈɪsə.
 /kaggle/input/libritts-460/train-clean-460/3905/149791/3905_149791_000007_000001.wav|"ɪf kwˈiːn kˈuː ˈiː ˈoʊ kˈɑːŋkɚz tə mˈɑːɹoʊ, ʃiː woʊnt biː nˈaɪs tʊ ˌʌs, ænd ɪf ðə sˈuː dˈɪk kˈɑːŋkɚz, hiːl biː wˈɜːs."
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20200917-0900-PLENARY-en_20200917-12:04:55_8.wav|sˌoʊ dˈɛnᵻs məklˈiː ɪz wˈʌn ʌvðə bˈɪɡ hˈiəɹoʊz ʌv ˌaʊɚ tˈaɪm hiː nˈiːdz ˌaʊɚ səpˈoːɹt ænd hiː dɪzˈɜːvz ɪt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20200917-0900-PLENARY-en_20200917-12:18:01_0.wav|θˈæŋk juː mˈæd aɪm pɹˈɛzɪdənt ðə hjˌuːmɐnɪtˈɛɹiən ænd sˌɪtʃuːˈeɪʃən ɪn mˌɑːzɐmbˈiːk dˈaɪɚ ðə pˈiːpəl ʌv mˌɑːzɐmbˈiːk
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-17:30:44_1.wav|ðə jˌʊɹəpˈiən pˈɑːɹləmənt hɐz kˈɔːld fɔːɹ lˈɑːŋ tˈaɪm fɔːɹ sˈʌtʃ ɐ mˈɑːnɪɾɚɹɪŋ wiː hæv ɔːlɹˌɛdi tˈuː θˈaʊzənd ænd sɪkstˈiːn dɪlˈɪvɚd ɐ ɹɪpˈoːɹt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-17:32:25_6.wav|sˌoʊ plˈiːz mˈɪsɪz fˈɑːndəl ænd fˈɑːloʊ ˌʌp tə ðə ɹɪpˈoːɹt θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19:09:25_4.wav|kˈɑːliːɡz wiː hæv wˈʌn ɑːpɚtˈuːnɪɾi wˈʌn wiː kˈæn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19:09:25_6.wav|wiː kænˈɑːt fˈeɪl θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19:11:49_0.wav|θˈæŋk juː mˈædəm tʃˈɛɹ mˈɪnɪstɚ kəmˈɪʃənɚz kˈɑːliːɡz wiː nˈiːd ɐ stɹˈɔŋ ænd fˈʌŋkʃənəl ɹˈuːl ʌv lˈɔː kəndˈɪʃənˈælɪɾi fɚðɪ ˌiːjˈuː bˈʌdʒɪt ænd ˌoʊvɚwˈɛlmɪŋ mədʒˈɔːɹɪɾi ɪn ðɪs pˈɑːɹləmənt ɐɡɹˈiːz ˌɑːn ðɪs nˈaʊ ðɪ ˈɑːɹɡjuːmənts wˈaɪ hɐvbɪn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19:27:16_7.wav|dˈɪɹ kˈɑːliːɡz ˈaɪ kˈɔːl ˌɑːn juː lˈɛt ˌʌs mˌeɪk ʃˈʊɹ ðæt ðɪs wɪl nˌɑːt hˈæpən wiː nˈiːd kəndˈɪʃənˈælɪɾi ˌɑːn ˈɔːl ˈæspɛkts ʌvðə ɹˈuːl ʌv lˈɔː nˌɑːt ˈoʊnli
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-20:01:49_0.wav|ˌaʊɚ kˈɑːliːɡ ɪn θˈæŋk kˈɔːz ðɪ ɪn ðæt sˈɪŋk θˈæŋk juː vˈɛɹi mˈʌtʃ wɛn wiː ɹoʊmˈeɪniən stˈɪk tə ðə stɹˈiːts ɪn ðæt ɹˈiəli kˈoʊld wˈɪntɚɹ ʌv tˈuː θˈaʊzənd ænd sˌɛvəntˈiːn ˈaɪ ɹɪmˈɛmbɚ wiː fˈɛlt kwˈaɪt lˈoʊnli ˈaʊt ðɛɹ bɪkˈʌz ˈaɪ wʌz ˈaʊt ðɛɹ ænd ðˈɛn wˈʌn dˈeɪ pɹˈɛzɪdənt wˈaɪ ænd vˈaɪs pɹˈɛzɪdənt tˈɪmɚmən stˈʊd ˌʌp ænd ðeɪ spˈoʊk ˌʌp ɐbˈaʊt ɪt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-20:03:55_1.wav|ˈaɪ ˈæktʃuːəli wɛnt tə ðə pɹˈoʊtɛsts ɪn ɪn sˈoʊfiə lˈæst wˈiːk hɐd ðɪ ɑːpɚtˈuːnɪɾi tə spˈiːk tʊ ɐ lˈɑːt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-20:03:55_9.wav|ðeɪ sˈiː ðæt dˈɑːnəld tˈʌsk ɪz fˈɪst bˈʌmpɪŋ bˈuːf ænd wˌaɪl ɐ pɹˈaɪm mˈɪnɪstɚ ðæt wʌz dʒˈʌst kˈɔːlɪŋ ðə pɹətˈɛstɚz ænd aɪm kwˈoʊɾɪŋ ɡˈæmblɚz ænd smˈʌɡlɚz bˌʌt wˌʌt bˈʌlɡɚ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-21:32:52_0.wav|θˈæŋk juː vˈɛɹi mˈʌtʃ wˈɪmɪn ɑːɹ ɐn ˈæsɛt ɑːɹ ɐn ˈæsɛt ɪn ˈɛvɹi kˈʌmpəni wɛn ðeɪɚɹ ˈɑːlsoʊ ˌɑːn bˈoːɹd ðə mˈoʊst səksˈɛsfəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-21:32:52_13.wav|wˌʌt ɑːɹ juː ɹˈiəli dˌuːɪŋ bɪkˈʌz wiː wˈɑːnt tə pɹəɡɹˈɛs
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-21:32:52_14.wav|bɪkˈʌz wiː wˈɑːnt tə pɹəɡɹˈɛs ænd wiː sˈiː ɪt ɪn ðiːz ðiːz dˈeɪz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-22:14:58_0.wav|sˌoʊ ˌaʊɚ nˈɛkst spˈiːkɚɹ ɪz mˈɪsɪz hˈɑːl sˈʌn ðɪ ˈɔːθɚ θɹˈiː mˈɪnɪts tə θˈæŋk juː vˈɛɹi mˈʌtʃ fɔːɹ ɡˈɪvɪŋ mˌiː ðə flˈoːɹ ɪn hɜː pəlˈɪɾɪkəl pɹaɪˈɔːɹɪɾiz kəmˈɪʃən pɹˈɛzɪdənt fˈaʊndɚ lˈaɪən ɹˈɛkəɡnˌaɪzd ðə səksˈɛs ʌvðə jˈuːθ kˈɜːɹənsi ɪnðə fˈaɪt ɐɡˈɛnst jˈuːθ ʌnɛmplˈɔɪmənt ænd dᵻklˈɑːɹ ʃˌʊd biː ɡˈɪvən ɐn ɪnkɹˈiːsd bˈʌdʒɪt ænd ɪnvˈɑːlv ɹˌiː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-22:14:58_1.wav|ˌɑːn wˌʌt ɪt pɹˈɑːmɪsᵻz ɪn ˈɛvɹi mˈɛmbɚ stˈeɪts ˌɑːn fˈɜːst ʌv dʒuːlˈaɪ ðˈɪs
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-11:32:49_12.wav|ðɪ ˈoʊnɚ nəsˈɛsɪɾi ɹɪpˈoːɹt təbi vˈoʊɾᵻd tədˈeɪ ænd təmˈɔːɹoʊ ɪz ɐ bˈælənst wˈʌn ænd ðə pəzˈɪʃənz ʌv ˈɛnvi ˈɪtɹə kəmˈɪɾiz wɜː tˈeɪkɪŋ ˌɪntʊ ɐkˈaʊnt ɪnðə nɪɡˈoʊʃɪˈeɪʃənz ðə ɹɪpˈoːɹt ɐdɹˈɛsᵻz ðə
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-12:07:25_0.wav|dˈɪɹ kəmˈɪʃənɚ fˈɔːɹɪsts ɑːɹ nˌɑːt dʒˈʌst wˈʊd fˈɔːɹts ɑːɹ nˈɑːt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-12:49:38_1.wav|mədʒˈɔːɹɪɾi ʌv ðˌɛm ɪz nˌɑːt ɪn ɐ ɡˈʊd ʃˈeɪp jˈʊɹəp nˈiːdz dˈɛspɚɹətli
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-15:37:12_2.wav|pˈiːpəlz lˈaɪvz lˈaɪk ðə lˈaɪf ʌv pˈɛt lˌæ hiːz ɐ fˈɑːɹmɚ fɹʌm
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-15:37:12_6.wav|pˈiːpəlz lˈaɪvz lˈaɪk ðə lˈaɪf ʌv sˌæn ˈɑːɹə ʃiːz fɹʌmðə sˈʌmɪt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-16:50:40_0.wav|θˈæŋk juː tʃˈɛɹ kˈɑːliːɡz wiː dˈɛfɪnətli nˈiːd klˈaɪmət lˈɔː bˌʌt ɪt mˈʌst bɹˈɪŋ ˈɔːl ˌiːjˈuː ɹˈiːdʒənz təɡˌɛðɚ kˈɜːɹənt pɹəpˈoʊzəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-16:50:40_2.wav|wˈʌn ʌv kˈiː ˈɪʃuːz ðɪ ˈɛnɚdʒi tɹænsˈɪʃən mˈɛmbɚ stˈeɪts wɪð ɪndˈʌstɹɪəl ɹˈiːdʒən
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09:31:37_4.wav|mˈiːnz dɪplˈoʊmɚ ɹˈaɪt nˈaʊ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09:41:47_0.wav|θˈæŋk juː ˈɑːnɚɹ ɐ pɹˈɛzənt hˈaɪɚ ɹˌɛpɹɪzˈɛntətˌɪv sˈɪns ðə fˈɜːst dˈeɪ ʌv ðɪs mˈɪlətˌɛɹi kɑːnfɹəntˈeɪʃən wiː ɪn ɐ jˌʊɹəpˈiən pˈɑːɹləmənt ˈɜːdʒd bˈoʊθ sˈaɪdz tə kˈʌm tʊ ɐsˈɪst wiː kˈɔːld fɔːɹ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09:41:47_10.wav|ˌiːjˈuː ˈɛkspoːɹts vˈæljuːz fɔːɹ dˈiːsənt lˈaɪvz fɔːɹ ˈɔːl ðə sˈɪɾɪzənz θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09:43:12_7.wav|pˈiːpəl ʌv neɪˈoːɹ nˈɑːbə dɪzˈɜːv lˈɑːŋɡlæstɪŋ pˈiːs ænd pɹəspˈɛɹɪɾi θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09:47:47_6.wav|ɪn ðɪs ɹɪɡˈɑːɹd ˈɜːdoʊɡən tˈɜːki ɪz dɪsplˈeɪɪŋ vˈɛɹi ɪɹɪspˈɑːnsəbəl bɪhˈeɪvjɚ wˌɪtʃ mˈʌst biː fˈɜːmli kəndˈɛmd baɪ ˈɔːl pəlˈɪɾɪkəl fˈoːɹsᵻz θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10:10:52_1.wav|bˌʌt wˌʌt ðˈɛn ænd dʒˈʌst
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10:10:52_9.wav|ðæts wˌaɪ ˈaɪ səbskɹˈaɪb tə ðə tˈɜːm ðæt mˈɪstɚ kˈæpəs hɐz jˈuːzd stɹətˈiːdʒɪk ɹɪspˌɑːnsəbˈɪlɪɾi ʌvðɪ ˌiːjˈuː θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10:33:26_4.wav|ɪf nˌoːɹməlaɪzˈeɪʃən ɐɡɹˈiːmənts wɜː pˈɑːsəbəl wɪð sˈɜːb ænd kˈɔst ʌv ɪt ɪz ˈɑːlsoʊ pˈɑːsəbəl wɪððə ɹoʊmˈeɪniən ænd sˈɜːbiən wiː ˈɔfən spˈiːk ɐbˈaʊt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10:42:15_8.wav|ɪt ɪz hˈaɪ tˈaɪm fɔːɹ tɹˈuː jˌʊɹəpˈiən fˈɔːɹən pˈɑːlɪsi ˈækʃən θˈæŋk juː oʊkˈeɪ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-12:33:19_7.wav|kˈiːp ɪɹˈæn ɐwˈeɪ fɹʌmðə nˈuːklɪɹ bˈʌmp ænd lˈɛts kˈiːp ɪt lˈɛts dˈuː ɪt təɡˌɛðɚ lˈɛts dˈuː ɪt təɡˌɛðɚ θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-12:45:54_0.wav|θˈæŋk juː ðɪ ˌiːkənˈɑːmɪk dˌɪsˈæstɚɹ ɪn ɪɹˈæn stˈɑːɹɾᵻd lˈɑːŋ bɪfˌoːɹ kˈɑːvɪd ænd
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-12:45:54_2.wav|wiː hæv tə fˈaɪnd ɐ wˈeɪ tʊtə tʊtə kˈiːp ˈɑːɹmz kˈiːp ˈɑːɹmz ɛmbˈɑːɹ ɑːnðə ɹeɪʒˈiːm ðæt ɪz ɹɪspˈɑːnsəbəl fɔːɹ faɪnˈænsɪŋ tˈɛɹɚɹˌɪzəm kɹˈæʃɪŋ sˌoʊ bɹˈuːɾəli pɹˈoʊtɛsts ɪnðə kˈʌntɹi ænd dˈaʊnɪŋ sɪvˈɪliən ˈɛɹpleɪnz θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-13:01:09_8.wav|ˈaɪ θˈɪŋk ɪts nˌɑːt səfˈɪʃənt ænd ˈɔːl ðə ɹˌɛpɹɪzˈɛnts ʃˌʊd stˈɑːp ænd nˈaʊ θˈæŋks
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-15:00:32_0.wav|fɔːɹ hɪz nˌɑːmᵻnˈeɪʃən baɪ ðɪs hˈaʊs baɪ ðɪs hˈaʊs ˈɑːlsoʊ tʊ ɛkstˈɛnd hɪz ˈɑːlsoʊ tʊ ɛkstˈɛnd hɪz hɪz ɹɪspˌɑːnsəbˈɪlɪɾiz tə tɹˈeɪd pˈɑːlɪsi ænd aɪm kˈɑːnfɪdənt ðætðə hˈaʊs ænd juː wɪl hæv ɐn ˈɛksələnt kˌɔːɹpɚɹˈeɪʃən ˈɑːlsoʊ ɪnðə fjˈuːtʃɚ sˌoʊ kənɡɹˈætʃʊlˈeɪʃənz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:06:04_0.wav|θˈæŋk juː aɪm pɹˈɛzɪdənt vˈʌlnɚɹəbəl mˈɛmbɚz dˌɪdʒɪɾəlaɪzˈeɪʃən ɪz tʃˈeɪndʒɪŋ ðə wˈɜːld wiː sˈiː dˈɪdʒɪɾəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:06:04_3.wav|ænd ðˈɛɹfoːɹ wiː nˈiːd ɐ sˈɛt ʌv ɹˈuːlz ænd ðə dˈɪdʒɪɾəl fˈaɪnæns
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:08:38_11.wav|ænd ðə sˈeɪm ɪz tɹˈuː fɔːɹ kɹˈɪɾɪkəl θˈɜːd pˈɑːɹɾi pɹəvˈaɪdɚz sˈaɪbɚ sɪkjˈʊɹɪɾi ɪz wˈʌn ʌvðə mˈeɪn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:08:38_14.wav|ðæts ðə sɪnsˈɪɹ ˈeɪm ʌv ˌaʊɚ ɡɹˈuːp
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:08:38_8.wav|ˈaɪ θˈɔːt wˈɛlkʌm tʊ ˈiːzi bˈiː stˈænd ɑːnðə sˈɛntɹəl dˈɪdʒɪɾəl kˈɜːɹənt ʃˈɪp wiː kænˈɑːt lˈɛt lˈaɪbɹə ˌʌndɚmˈaɪn mˈoːɹ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:46:32_10.wav|ðɪ ˌʌs ɪz nˌɑːɾə ɐn ɛɡzˈæmpəl fɔːɹ jʊɹ ɐbˌaʊt wiː nˈiːd tə tˈeɪk ðə lˈiːd aɪʊɹsˈɛlvz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16:53:11_4.wav|ðɪs ɪz ˈɑːlsoʊ fɔːɹ ðɪs hˈaʊs vˈɛɹi ɪmpˈoːɹtənt pˈɔɪnt tʊtə dɪskˈʌs ɐnˈʌðɚɹ ˈɪʃuː ðæt wʌz ðæt wʌz ɹˈeɪzd ænd
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-08:54:16_3.wav|ðə ɹɪpˈoːɹt ɪz sˈɛnt tə ðɪ ɐθˈɔːɹɪɾiz ænd dɪspˈaɪt ðˈɪs
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-08:57:09_13.wav|wiː ɪt wɪl nˈɛvɚ hˈæpən θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-08:57:09_3.wav|ðə nˈeɪm ʌv vlˈædɪmˌɪɹ ɹɪpˈoːɹɾɪŋ kˈɔːz ɪn ˈɪɡ pjˈuːtɪn ɪz ˈɑːlsoʊ lˈɪŋkt tə sˈʌtʃ ɐ tɹænsˈækʃən ɐnˈʌðɚ lˈɪŋk ɹɪvˈiːlz ɐ tɹænsˈækʃənəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09:09:36_11.wav|ʃiːz spˈɛndɪŋ hɜː dˈeɪ ˈɑːlsoʊ ɪn lˈʌkʃɚɹi nˌɑːt ɪn æŋɡˈoʊlə bˌʌt ɪn ɪn ɹˈʌʃə ænd ˈʌðɚ plˈeɪsᵻz sˌoʊ wˌʌt wiː nˈiːd ɪz tuː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09:09:36_2.wav|wiː ɪn ðɪs ɹˈuːm nˈoʊ ɪz nˈoʊ ɪt ˈɔːɹdɪnˌɛɹi pˈiːpəl ɑːɹ stˈɪl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09:24:10_0.wav|θˈæŋk juː mˈɑːm vˈaɪs pɹˈɛzɪdənt ðə vˈɪnsənt fˈaɪlz ʃˈoʊ klˈɪɹli ðə ʃˈɪɹ kwˈɑːntɪɾi ʌv səspˈɪʃəs tɹænsˈæk tˈeɪkɪŋ plˈeɪs
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09:39:18_12.wav|aɪv bˌɪn hˈɪɹɪŋ ˈaɪ θˈɪŋk ˈɔːl ʌv maɪ kˈɑːliːɡz spˈiːk ænd ˈaɪ ˈaɪ aɪv tˈeɪkən klˈoʊs nˈoʊts ænd ˈaɪ θˈɪŋk ðæt wiː ˈɔːl sˈiː θˈɪŋz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09:50:35_3.wav|ðɪs wʌz nˌɑːt ɹˈiəli sˈʌmθɪŋ tə ðɪ ˈʌðɚ dˈɪdʒɪɾəl oʊkˈeɪ sˈoʊ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17:25:33_0.wav|ðeɪ ɑːɹ ʃˈɛɹd ðɛɹ kəmˈɪʃənɚ ðɛɹ kˈɑːliːɡz ˈɑːnlaɪn sˈɜːvɪsᵻz ɑːɹ ˈɛvɹɪwˌɛɹ fɹʌmðə wˈeɪ wiː ɪnfˈɔːɹm aɪʊɹsˈɛlvz tə ðə wˈeɪ wiː kˈiːp ɪt ɪn tˈʌtʃ wɪð fɹˈɛndz fɹʌmðə wˈeɪ wiː bˈaɪ bˈʊks ænd
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17:25:33_11.wav|jˈɛt ˈiːvən hˈɪɹ ɪt ɪz stˈɪl ðə wˈɜːld wiː wˈɛst ˌoʊvɚ ðə pˈæst dˈɛkeɪd
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17:25:33_2.wav|fɹʌmðə wˈeɪ wiː ˈiːt tə ðə wˈeɪ wiː mˌeɪk dˈeɪts ænd sˌʌm pˈiːpəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17:25:33_20.wav|æz ˈɜː fɚðə dˌiːzˌiːˈeɪ ɹɪpˈoːɹt aɪm ɹˈeɪzɪŋ ɐ fjˈuː ˈɪʃuːz ɹˈaɪt nˈaʊ ðə vˈæljuː ʌv lˈɔː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17:25:33_8.wav|bˌʌt bˌʌt ɪt ɪz ˈɑːlsoʊ bɹˈɪŋz dˈeɪndʒɚz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-18:22:38_4.wav|kˈʌstəm tˈeɪlɚd dˈɪdʒɪtˌeɪld æt ˈɔːl lˈɛvəlz ˌɛdʒuːkˈeɪʃən ɪz ˈɑːlsoʊ pˈæɹəmˌaʊnt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-19:26:33_2.wav|ɹˌɛɡjuːlˈeɪʃən mˈɪstɚ dˈuː wiː ænd dʒˈɛndɚ bˈeɪst dɪskɹˌɪmᵻnˈeɪʃən sˈʌtʃ sˈɪstəmz nˈiːd təbi sˈʌbdʒɛkt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-20:08:31_6.wav|ænd lˈɪsənɪŋ tə juː tə jʊɹ ɹɪˈækʃən mˈædəm kəmˈɪʃənɚɹ aɪm vˈɛɹi aɪm vˈɛɹi pˈɑːzɪtˌɪv ɐbˌaʊt ðə pɹəpˈoʊzəlz ðæt juː ʃˈoʊ tˈeɪk ænd wiː tˈeɪk ænd wiː kæn dɪskˈʌs vˈɛɹi sˈuːn θˈæŋk juː juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-10:32:18_8.wav|juː ˈoʊ ɪt tə ðˌɛm θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-11:10:18_0.wav|dˈɪɹ pɹˈɛzɪdənt dˈɪɹ kˈɑːliːɡz aɪm ɐ fˈʊl hˈɑːɹɾᵻd jˌʊɹəpˈiən fɔːɹ mˌiː hˈɪɹ ɪts ˈɔːl ˈɪn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-11:10:18_3.wav|ðɪ ˈɑːpəsˌɪt ðeɪ sˈiː dɪlˈeɪ tˈæktɪks
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-12:26:35_0.wav|tɹˈænz θˈæŋk juː mˈædəm pɹˈɛzɪdənt dˈɪɹ mˈɪʃənˌɛɹi dˈɪɹ kˈɑːliːɡz ðə pˈæst faɪnˈænʃəl kɹˈaɪsɪs ænd ðɪ ˈænsɚ ðə juː hɐz ɡˈɪvən ʃˈoʊ hˌaʊ pˈʌblɪk hˌaʊ kˈʌts ɪn pˈʌblɪk sˈɜːvɪsᵻz hɐd ɐ nˈɛɡətˌɪv ˈɪmpækt ˌɑːn ˌaʊɚɹ ˌiːkənˈɑːmɪk ɛnvˌaɪɹənmˈɛntəl ænd sˈoʊʃəl ɹɪkˈʌvɚɹi
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-17:12:42_0.wav|dˈɪɹ tʃˈɛɹ dˈɪɹ mˈɛmbɚz ðə sˈɜːfɪs spˈiːkɚz æt swˈɪtsɚlənd ɪz lˈɔst tə dɪfˌɔːɹɪstˈeɪʃən wˈɜːldwaɪd ˈɛvɹi jˈɪɹ æz jˌʊɹəpˈiənz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-17:12:42_2.wav|hɐvbɪn fˈɛd wɪð sˈɔɪ plˈæntᵻd ˌɑːn ɪlˈiːɡəli lˈɑːkt fˈɔːɹɪst sˈɔɪl nˈoʊ wˈʊdən pɹˈɑːdʌkt sˈoʊ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-17:12:42_6.wav|sˌoʊ lˈɛts ˈækt nˈaʊ θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-09:40:04_1.wav|wˈɪmɪn mˌeɪk hæv ˌaʊɚ səsˈaɪəɾi ðɛɹ pɑːɹtˈɪsɪpˈeɪʃən ɪn fˈɔːɹən
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-09:40:04_19.wav|stɹˈaɪvɪŋ fɔːɹ ˈiːkwəl ɹˌɛpɹɪzˈɛntˈeɪʃən mˈiːnz səstˈeɪnəbəl pˈiːs ænd sɪkjˈʊɹɪɾi fɔːɹ ˈɛvɹɪwˌʌn θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-09:50:17_8.wav|ænd lˈɛt mˌiː stɹˈɛs ðə wˈɜːld sˈɛd baɪ maɪ kˈɑːliːɡ dʒˈʌst bɪfˌoːɹ mˌiː mˈædəlɪn ˌɛlbˈiː mˈædəlɪn ˈælbɹaɪt pˈæɹəfɹˌeɪzɪŋ ðɛɹ ɪz ɐ spˈɛʃəl plˈeɪs ɪn hˈɛlp fɔːɹ mˈɛn hˌuː dˈoʊnt hˈɛlp wˈɪmɪn θˈæŋk juː vˈɛɹi mˈʌtʃ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:04:09_0.wav|θˈæŋk juː pɹˈɛzɪdənt mˈædəm kəmˈɪs wˈɪmɪn ɹɪmˈeɪn lˈɑːɹdʒli ˌʌnɹˌɛpɹɪzˈɛntᵻd ænd ˌʌndɚvˈæljuːd ɪn pˈɑːlətˌɪks ænd dᵻsˈɪʒən mˌeɪkɪŋ pɹˈɑːsɛs ɪn ˌiːjˈuː ænd bɪjˌɑːnd nˌʌnðəlˈɛs jˌʊɹəpˈiən
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:25:01_0.wav|mˈɪstɚ tʃˈɛɹ ɐ nˈuː plˈiːnɚɹi ɐ nˈuː dɪbˈeɪt ɐɹˈaʊnd mˈʌni lˈɔːndɚɹɪŋ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:25:01_4.wav|ðə sˈaɪpɹəs klˈɪks ænd ðə nˈeɪmz ɪt ɹɪvˈiːlz ɑːɹ bˈɜːθ ʌv dɪskˈʌʃən wɪð
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:25:01_6.wav|ɪts ɐ dɪsɡɹˈeɪs fɚðə hˈoʊl jˌʊɹəpˈiən jˈuːniən ðə kˈɑːntɹæst ænd ðə
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:25:01_7.wav|ðə kˈɑːntɹæst ænd ðɪ ɪndˈɪfɹəns tʊwˈɔːɹdz bˈɜːnɪŋ ɹˈɛfjuːdʒˌiː kˈæmps ɪn mˈɔɪɹə kænˈɑːt biː bˈɪɡɚɹ ˈaɪ ɐɡɹˈiː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:25:01_9.wav|pˈæspoːɹts ænd vˈiːzə ɑːɹ nˌɑːt kəmˈɑːdɪɾi
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:41:12_5.wav|bˈɛɾɚ lˈeɪt ðɐn ˈɛvɚ bˌʌt ðiːz ɐlˈoʊn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:41:12_6.wav|bˌʌt ðiːz ɐlˈoʊn wɪl dˈuː ðə tɹˈɪk kɹˈɪmɪnəlz lˈʊkɪŋ fɚɹə sˈeɪf
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10:45:52_6.wav|ɪt ɐtˈæks ˌʌs ˈɔːl ænd ɪt mˈʌst ˈɛnd θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11:14:13_1.wav|wiː hæv ˌoʊvɚɹ ɐtʃˈiːvd ˌaʊɚ klˈaɪmət ɔːɹ ðɪ ˈɛnɚdʒi tˈɑːɹɡɪts fɔːɹ ɹɪnˈuːəbəl ˈɛnɚdʒi fɔːɹ tˈuː θˈaʊzənd ænd twˈɛnti bˌʌt ˈɑːbvɪəsli ðiːz tˈɑːɹɡɪts ɑːɹ stˈɪl mˈɑːdəst nˈaʊ wɛn ðə jˌʊɹəpˈiən pˈɑːɹləmənt ɪz pˈʊʃɪŋ fɚɹə
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11:57:37_9.wav|wiːv mˌeɪd ðæt ˈɑːlsoʊ klˈɪɹ ɪn fˈɔːɹmɚ dɪbˈeɪt ænd ðə fˈɔːɹmɚ vˈoʊt ɑːnðə klˈaɪmət lˈɔː wˌɛɹ wiː klˈɪɹli stˈeɪɾᵻd stˈeɪt mˌeɪd stˈeɪtmənt ɑːnðɪ ˈɛkt sˌoʊ maɪ kwˈɛstʃən tə ðə kəmˈɪʃən
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11:59:51_0.wav|ðɛɹ kəmˈɪʃənɚɹ ɪts ɡɹˈeɪt ðæt wiː ɑːɹ hˌævɪŋ ðɪs dɪbˈeɪt bˌʌt ðɪs ʃˌʊd biː ˈoʊnli ðə stˈɑːɹt wiː nˈiːd tə pˈʊt
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11:59:51_7.wav|wˌʌt dˈuː wiː dˈuː ðˈɛn stˈɑːɹt kˈɑːmpənsˌeɪɾɪŋ ˈɔːl ðɪ ɪn ɪnvˈɛst
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-12:03:16_0.wav|jˈɛh θˈæŋk juː mˈɪstɚ pɹˈɛzɪdənt ænd həlˈoʊ kəmˈɪʃənɚ wɛnˌɛvɚɹ ˈaɪ spˈiːk tə sˈɪɾɪzənz ɐbˌaʊt ðɪ ˈɛnɚdʒi tʃˈɑːɹɾɚ tɹˈiːɾi ðeɪ ɑːɹ ʃˈɑːkt ðɪ ˈɛnɚdʒi tʃˈɑːɹɾɚ
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:01:00_0.wav|pɹˈɛzɪdənt kˈɑːliːɡz jˈɛstɚdˌeɪ wiː kənklˈuːdᵻd nɪɡˈoʊʃɪˈeɪʃənz ɑːnðə jˌʊɹəpˈiən mˈʌltaɪ ˈænɪməl fɹˈeɪmwɜːk ðiːz nɪɡˈoʊʃɪˈeɪʃənz hɐvbɪn ɪntˈɛns
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:01:00_14.wav|ɪts ˌæbsəlˈuːtli ɪmpˈoːɹtənt tə ɡɛt ˌʌs ˌoʊvɚ ænd bɪjˌɑːnd ðə kɹˈaɪsɪs ænd ðɛɹ kˈɑːliːɡz ɪts ˌʌp tə ðə kˈaʊnsəl nˈaʊ wiːv hˈɜːd ɹɪpˈiːɾᵻd ɪnðə pˈæst mˈʌnθs ænd wˈiːks ðˌɐɾɪt ɪz ðə pˈɑːɹləmənt ðæt ɪz stˈɔːlɪŋ ðə pˈɑːɹləmənt ðæt ɪz dɪlˈeɪɪŋ ðə pˈɑːɹləmənt ðæt ɪz ɹɪspˈɑːnsəbəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:24:24_0.wav|ɪz fʊlfˈɪl kˈɑːliːɡ hˈæn θˈæŋk juː vˈɛɹi mˈʌtʃ mˈɪstɚ pɹˈɛzɪdənt dˈɪɹ kˈɑːliːɡz ɪn dʒuːlˈaɪ ðə hˈɛdz ʌv stˈeɪt ænd ɡˈʌvɚnmənt hæv nɪɡˈoʊʃɪˌeɪɾᵻd fˈoːɹ dˈeɪz ænd fˈoːɹ nˈaɪts ænd hæv ɐdˈɑːptᵻd ðɛɹ pəzˈɪʃən ɑːnðə bˈʌdʒɪt ʌvðə jˌʊɹəpˈiən jˈuːniən fɚðə nˈɛkst sˈɛvən jˈɪɹz
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:24:24_16.wav|ðɛɹˌɑːɹ θɹˈiː pˈɪlɚz dˈɪɹ kˈɑːliːɡz fɚðɪ ˈiːoʊ bˈʌdʒɪt fɚðə nˈɛkst sˈɛvən jˈɪɹz ðə mˈʌltaɪ faɪnˈænʃəl fɹˈeɪmwɜːk
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:24:24_24.wav|kˈʌntɹi spəsˈɪfɪk ɹˌɛkəmɛndˈeɪʃənz jˌʊɹəpˈiən səmˈɛstɚ mˈɪstɚ pɹˈɛzɪdənt ɑːɹ vˈɛɹi ɪmpˈoːɹtənt ɑːɹ vˈɛɹi ɪmpˈoːɹtənt bɪkˈʌz ðə tˈaɪɾəl ʌvðə pɹˈoʊɡɹæm ɪz ɹɪkˈʌvɚɹi ænd ɹɪsˈɪliəns mˈeɪ kˈʌntɹi fˈɪn θˈæŋk
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:24:24_8.wav|sˈɛvən bˈɪliən jˈʊɹɹoʊz tə fˈaɪv bˈɪliən jˈʊɹɹoʊz ðə ɹɪsˈɜːtʃ pɹˈoʊɡɹæm
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:39:11_16.wav|ðɪs ɪz ɐ hjˈuːdʒ ɐtʃˈiːvmənt ðæt wiː kæn biː pɹˈaʊd ʌv
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16:59:52_7.wav|ðiːz ɡˈaɪz ðeɪ mˈiːn ɪt ðeɪɚ plˈænɪŋ tʊ ˌʌndɚmˈaɪn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-17:09:04_12.wav|tˈeɪk ɹɪspˌɑːnsəbˈɪlɪɾi nˈaʊ ˈɑːn
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-17:09:04_16.wav|ˈɛvɹi sˈɪŋɡəl pˈɛni sˌoʊ dˈoʊnt kˈʌm hˈɪɹ ænd sˈeɪ ˈoʊ wiː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-09:27:00_0.wav|θˈæŋk juː vˈɛɹi mˈʌtʃ kˈɑːliːɡz ˈælbɚt kˈɑːmi ɹˈoʊt ænd ðə plˈʌɡ ˈaɪ hæv nˈoʊ aɪdˈiə wˌʌt ɪz ɐwˈeɪɾɪŋ mˌiː ɔːɹ wˌʌt wɪl hˈæpən wɛn ðɪs ˈɔːl ˈɛndz fɔːɹ ðɪs mˈoʊmənt ˈaɪ nˈoʊ ðɪs ðɛɹˌɑːɹ sˈɪk pˈiːpəl
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-11:42:47_40.wav|ænd juː hæv ˈɔːlweɪz bˌɪn vˈɛɹi kənstɹˈʌktɪv wˌɪtʃ aɪm ʃˈʊɹ ðæt sˈiːɡfɹɪd ænd ˈaɪ sˈiːɡfɹɪd ænd ˈaɪ ɐpɹˈiːʃɪˌeɪt vˈɛɹi mˈʌtʃ θˈæŋk juː fɔːɹ ðæt θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-12:29:34_5.wav|wiː kænˈɑːt ɐfˈoːɹd ænd wiː dˈoʊnt wˈɑːnt ɐn ˈɛmpti pˈækɪdʒɪŋ pɹˈɪɾi pˈækɪdʒɪŋ fɔːɹ ˈɛmpti bˈɑːks nˈoʊ ˈɛmpti pɹˈɑːmɪsᵻz ænd nˈoʊ ɡɹˈiːnwɑːʃɪŋ wiː ɔːlɹˌɛdi lˈɔst mˈɛni
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-12:29:34_8.wav|wiː mˌeɪk nˈiːd tə mˌeɪk ʃˈʊɹ ðæt nˌɑːt ˈoʊnli ˌaʊɚ lˈɛft hˈænd dˈʌz nˈoʊ wˌʌt ðə ɹˈaɪt hˈænd ɪz nˈoʊ wˌʌt ðə ɹˈaɪt hˈænd ɪz dˌuːɪŋ bˌʌt ðæt wiː wˈɜːk hˈænd ɪn hˈænd θˈæŋk juː
-/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-12:38:08_9.wav|æz wɪl biː fɹˈʌntlaɪn ˈæktɚz ɪn ðɪs ɹɪɡˈɑːɹd ðˈɛɹfoːɹ wiː nˈiːd tʊ ɐsˈɪst ðə
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20200917-0900-PLENARY-en_20200917-12_04_55_8.wav|sˌoʊ dˈɛnᵻs məklˈiː ɪz wˈʌn ʌvðə bˈɪɡ hˈiəɹoʊz ʌv ˌaʊɚ tˈaɪm hiː nˈiːdz ˌaʊɚ səpˈoːɹt ænd hiː dɪzˈɜːvz ɪt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20200917-0900-PLENARY-en_20200917-12_18_01_0.wav|θˈæŋk juː mˈæd aɪm pɹˈɛzɪdənt ðə hjˌuːmɐnɪtˈɛɹiən ænd sˌɪtʃuːˈeɪʃən ɪn mˌɑːzɐmbˈiːk dˈaɪɚ ðə pˈiːpəl ʌv mˌɑːzɐmbˈiːk
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-17_30_44_1.wav|ðə jˌʊɹəpˈiən pˈɑːɹləmənt hɐz kˈɔːld fɔːɹ lˈɑːŋ tˈaɪm fɔːɹ sˈʌtʃ ɐ mˈɑːnɪɾɚɹɪŋ wiː hæv ɔːlɹˌɛdi tˈuː θˈaʊzənd ænd sɪkstˈiːn dɪlˈɪvɚd ɐ ɹɪpˈoːɹt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-17_32_25_6.wav|sˌoʊ plˈiːz mˈɪsɪz fˈɑːndəl ænd fˈɑːloʊ ˌʌp tə ðə ɹɪpˈoːɹt θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19_09_25_4.wav|kˈɑːliːɡz wiː hæv wˈʌn ɑːpɚtˈuːnɪɾi wˈʌn wiː kˈæn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19_09_25_6.wav|wiː kænˈɑːt fˈeɪl θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19_11_49_0.wav|θˈæŋk juː mˈædəm tʃˈɛɹ mˈɪnɪstɚ kəmˈɪʃənɚz kˈɑːliːɡz wiː nˈiːd ɐ stɹˈɔŋ ænd fˈʌŋkʃənəl ɹˈuːl ʌv lˈɔː kəndˈɪʃənˈælɪɾi fɚðɪ ˌiːjˈuː bˈʌdʒɪt ænd ˌoʊvɚwˈɛlmɪŋ mədʒˈɔːɹɪɾi ɪn ðɪs pˈɑːɹləmənt ɐɡɹˈiːz ˌɑːn ðɪs nˈaʊ ðɪ ˈɑːɹɡjuːmənts wˈaɪ hɐvbɪn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-19_27_16_7.wav|dˈɪɹ kˈɑːliːɡz ˈaɪ kˈɔːl ˌɑːn juː lˈɛt ˌʌs mˌeɪk ʃˈʊɹ ðæt ðɪs wɪl nˌɑːt hˈæpən wiː nˈiːd kəndˈɪʃənˈælɪɾi ˌɑːn ˈɔːl ˈæspɛkts ʌvðə ɹˈuːl ʌv lˈɔː nˌɑːt ˈoʊnli
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-20_01_49_0.wav|ˌaʊɚ kˈɑːliːɡ ɪn θˈæŋk kˈɔːz ðɪ ɪn ðæt sˈɪŋk θˈæŋk juː vˈɛɹi mˈʌtʃ wɛn wiː ɹoʊmˈeɪniən stˈɪk tə ðə stɹˈiːts ɪn ðæt ɹˈiəli kˈoʊld wˈɪntɚɹ ʌv tˈuː θˈaʊzənd ænd sˌɛvəntˈiːn ˈaɪ ɹɪmˈɛmbɚ wiː fˈɛlt kwˈaɪt lˈoʊnli ˈaʊt ðɛɹ bɪkˈʌz ˈaɪ wʌz ˈaʊt ðɛɹ ænd ðˈɛn wˈʌn dˈeɪ pɹˈɛzɪdənt wˈaɪ ænd vˈaɪs pɹˈɛzɪdənt tˈɪmɚmən stˈʊd ˌʌp ænd ðeɪ spˈoʊk ˌʌp ɐbˈaʊt ɪt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-20_03_55_1.wav|ˈaɪ ˈæktʃuːəli wɛnt tə ðə pɹˈoʊtɛsts ɪn ɪn sˈoʊfiə lˈæst wˈiːk hɐd ðɪ ɑːpɚtˈuːnɪɾi tə spˈiːk tʊ ɐ lˈɑːt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-20_03_55_9.wav|ðeɪ sˈiː ðæt dˈɑːnəld tˈʌsk ɪz fˈɪst bˈʌmpɪŋ bˈuːf ænd wˌaɪl ɐ pɹˈaɪm mˈɪnɪstɚ ðæt wʌz dʒˈʌst kˈɔːlɪŋ ðə pɹətˈɛstɚz ænd aɪm kwˈoʊɾɪŋ ɡˈæmblɚz ænd smˈʌɡlɚz bˌʌt wˌʌt bˈʌlɡɚ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-21_32_52_0.wav|θˈæŋk juː vˈɛɹi mˈʌtʃ wˈɪmɪn ɑːɹ ɐn ˈæsɛt ɑːɹ ɐn ˈæsɛt ɪn ˈɛvɹi kˈʌmpəni wɛn ðeɪɚɹ ˈɑːlsoʊ ˌɑːn bˈoːɹd ðə mˈoʊst səksˈɛsfəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-21_32_52_13.wav|wˌʌt ɑːɹ juː ɹˈiəli dˌuːɪŋ bɪkˈʌz wiː wˈɑːnt tə pɹəɡɹˈɛs
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-21_32_52_14.wav|bɪkˈʌz wiː wˈɑːnt tə pɹəɡɹˈɛs ænd wiː sˈiː ɪt ɪn ðiːz ðiːz dˈeɪz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-22_14_58_0.wav|sˌoʊ ˌaʊɚ nˈɛkst spˈiːkɚɹ ɪz mˈɪsɪz hˈɑːl sˈʌn ðɪ ˈɔːθɚ θɹˈiː mˈɪnɪts tə θˈæŋk juː vˈɛɹi mˈʌtʃ fɔːɹ ɡˈɪvɪŋ mˌiː ðə flˈoːɹ ɪn hɜː pəlˈɪɾɪkəl pɹaɪˈɔːɹɪɾiz kəmˈɪʃən pɹˈɛzɪdənt fˈaʊndɚ lˈaɪən ɹˈɛkəɡnˌaɪzd ðə səksˈɛs ʌvðə jˈuːθ kˈɜːɹənsi ɪnðə fˈaɪt ɐɡˈɛnst jˈuːθ ʌnɛmplˈɔɪmənt ænd dᵻklˈɑːɹ ʃˌʊd biː ɡˈɪvən ɐn ɪnkɹˈiːsd bˈʌdʒɪt ænd ɪnvˈɑːlv ɹˌiː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201005-0900-PLENARY-en_20201005-22_14_58_1.wav|ˌɑːn wˌʌt ɪt pɹˈɑːmɪsᵻz ɪn ˈɛvɹi mˈɛmbɚ stˈeɪts ˌɑːn fˈɜːst ʌv dʒuːlˈaɪ ðˈɪs
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-11_32_49_12.wav|ðɪ ˈoʊnɚ nəsˈɛsɪɾi ɹɪpˈoːɹt təbi vˈoʊɾᵻd tədˈeɪ ænd təmˈɔːɹoʊ ɪz ɐ bˈælənst wˈʌn ænd ðə pəzˈɪʃənz ʌv ˈɛnvi ˈɪtɹə kəmˈɪɾiz wɜː tˈeɪkɪŋ ˌɪntʊ ɐkˈaʊnt ɪnðə nɪɡˈoʊʃɪˈeɪʃənz ðə ɹɪpˈoːɹt ɐdɹˈɛsᵻz ðə
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-12_07_25_0.wav|dˈɪɹ kəmˈɪʃənɚ fˈɔːɹɪsts ɑːɹ nˌɑːt dʒˈʌst wˈʊd fˈɔːɹts ɑːɹ nˈɑːt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-12_49_38_1.wav|mədʒˈɔːɹɪɾi ʌv ðˌɛm ɪz nˌɑːt ɪn ɐ ɡˈʊd ʃˈeɪp jˈʊɹəp nˈiːdz dˈɛspɚɹətli
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-15_37_12_2.wav|pˈiːpəlz lˈaɪvz lˈaɪk ðə lˈaɪf ʌv pˈɛt lˌæ hiːz ɐ fˈɑːɹmɚ fɹʌm
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-15_37_12_6.wav|pˈiːpəlz lˈaɪvz lˈaɪk ðə lˈaɪf ʌv sˌæn ˈɑːɹə ʃiːz fɹʌmðə sˈʌmɪt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-16_50_40_0.wav|θˈæŋk juː tʃˈɛɹ kˈɑːliːɡz wiː dˈɛfɪnətli nˈiːd klˈaɪmət lˈɔː bˌʌt ɪt mˈʌst bɹˈɪŋ ˈɔːl ˌiːjˈuː ɹˈiːdʒənz təɡˌɛðɚ kˈɜːɹənt pɹəpˈoʊzəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201006-0900-PLENARY-en_20201006-16_50_40_2.wav|wˈʌn ʌv kˈiː ˈɪʃuːz ðɪ ˈɛnɚdʒi tɹænsˈɪʃən mˈɛmbɚ stˈeɪts wɪð ɪndˈʌstɹɪəl ɹˈiːdʒən
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09_31_37_4.wav|mˈiːnz dɪplˈoʊmɚ ɹˈaɪt nˈaʊ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09_41_47_0.wav|θˈæŋk juː ˈɑːnɚɹ ɐ pɹˈɛzənt hˈaɪɚ ɹˌɛpɹɪzˈɛntətˌɪv sˈɪns ðə fˈɜːst dˈeɪ ʌv ðɪs mˈɪlətˌɛɹi kɑːnfɹəntˈeɪʃən wiː ɪn ɐ jˌʊɹəpˈiən pˈɑːɹləmənt ˈɜːdʒd bˈoʊθ sˈaɪdz tə kˈʌm tʊ ɐsˈɪst wiː kˈɔːld fɔːɹ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09_41_47_10.wav|ˌiːjˈuː ˈɛkspoːɹts vˈæljuːz fɔːɹ dˈiːsənt lˈaɪvz fɔːɹ ˈɔːl ðə sˈɪɾɪzənz θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09_43_12_7.wav|pˈiːpəl ʌv neɪˈoːɹ nˈɑːbə dɪzˈɜːv lˈɑːŋɡlæstɪŋ pˈiːs ænd pɹəspˈɛɹɪɾi θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-09_47_47_6.wav|ɪn ðɪs ɹɪɡˈɑːɹd ˈɜːdoʊɡən tˈɜːki ɪz dɪsplˈeɪɪŋ vˈɛɹi ɪɹɪspˈɑːnsəbəl bɪhˈeɪvjɚ wˌɪtʃ mˈʌst biː fˈɜːmli kəndˈɛmd baɪ ˈɔːl pəlˈɪɾɪkəl fˈoːɹsᵻz θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10_10_52_1.wav|bˌʌt wˌʌt ðˈɛn ænd dʒˈʌst
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10_10_52_9.wav|ðæts wˌaɪ ˈaɪ səbskɹˈaɪb tə ðə tˈɜːm ðæt mˈɪstɚ kˈæpəs hɐz jˈuːzd stɹətˈiːdʒɪk ɹɪspˌɑːnsəbˈɪlɪɾi ʌvðɪ ˌiːjˈuː θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10_33_26_4.wav|ɪf nˌoːɹməlaɪzˈeɪʃən ɐɡɹˈiːmənts wɜː pˈɑːsəbəl wɪð sˈɜːb ænd kˈɔst ʌv ɪt ɪz ˈɑːlsoʊ pˈɑːsəbəl wɪððə ɹoʊmˈeɪniən ænd sˈɜːbiən wiː ˈɔfən spˈiːk ɐbˈaʊt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-10_42_15_8.wav|ɪt ɪz hˈaɪ tˈaɪm fɔːɹ tɹˈuː jˌʊɹəpˈiən fˈɔːɹən pˈɑːlɪsi ˈækʃən θˈæŋk juː oʊkˈeɪ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-12_33_19_7.wav|kˈiːp ɪɹˈæn ɐwˈeɪ fɹʌmðə nˈuːklɪɹ bˈʌmp ænd lˈɛts kˈiːp ɪt lˈɛts dˈuː ɪt təɡˌɛðɚ lˈɛts dˈuː ɪt təɡˌɛðɚ θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-12_45_54_0.wav|θˈæŋk juː ðɪ ˌiːkənˈɑːmɪk dˌɪsˈæstɚɹ ɪn ɪɹˈæn stˈɑːɹɾᵻd lˈɑːŋ bɪfˌoːɹ kˈɑːvɪd ænd
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-12_45_54_2.wav|wiː hæv tə fˈaɪnd ɐ wˈeɪ tʊtə tʊtə kˈiːp ˈɑːɹmz kˈiːp ˈɑːɹmz ɛmbˈɑːɹ ɑːnðə ɹeɪʒˈiːm ðæt ɪz ɹɪspˈɑːnsəbəl fɔːɹ faɪnˈænsɪŋ tˈɛɹɚɹˌɪzəm kɹˈæʃɪŋ sˌoʊ bɹˈuːɾəli pɹˈoʊtɛsts ɪnðə kˈʌntɹi ænd dˈaʊnɪŋ sɪvˈɪliən ˈɛɹpleɪnz θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-13_01_09_8.wav|ˈaɪ θˈɪŋk ɪts nˌɑːt səfˈɪʃənt ænd ˈɔːl ðə ɹˌɛpɹɪzˈɛnts ʃˌʊd stˈɑːp ænd nˈaʊ θˈæŋks
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-15_00_32_0.wav|fɔːɹ hɪz nˌɑːmᵻnˈeɪʃən baɪ ðɪs hˈaʊs baɪ ðɪs hˈaʊs ˈɑːlsoʊ tʊ ɛkstˈɛnd hɪz ˈɑːlsoʊ tʊ ɛkstˈɛnd hɪz hɪz ɹɪspˌɑːnsəbˈɪlɪɾiz tə tɹˈeɪd pˈɑːlɪsi ænd aɪm kˈɑːnfɪdənt ðætðə hˈaʊs ænd juː wɪl hæv ɐn ˈɛksələnt kˌɔːɹpɚɹˈeɪʃən ˈɑːlsoʊ ɪnðə fjˈuːtʃɚ sˌoʊ kənɡɹˈætʃʊlˈeɪʃənz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_06_04_0.wav|θˈæŋk juː aɪm pɹˈɛzɪdənt vˈʌlnɚɹəbəl mˈɛmbɚz dˌɪdʒɪɾəlaɪzˈeɪʃən ɪz tʃˈeɪndʒɪŋ ðə wˈɜːld wiː sˈiː dˈɪdʒɪɾəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_06_04_3.wav|ænd ðˈɛɹfoːɹ wiː nˈiːd ɐ sˈɛt ʌv ɹˈuːlz ænd ðə dˈɪdʒɪɾəl fˈaɪnæns
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_08_38_11.wav|ænd ðə sˈeɪm ɪz tɹˈuː fɔːɹ kɹˈɪɾɪkəl θˈɜːd pˈɑːɹɾi pɹəvˈaɪdɚz sˈaɪbɚ sɪkjˈʊɹɪɾi ɪz wˈʌn ʌvðə mˈeɪn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_08_38_14.wav|ðæts ðə sɪnsˈɪɹ ˈeɪm ʌv ˌaʊɚ ɡɹˈuːp
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_08_38_8.wav|ˈaɪ θˈɔːt wˈɛlkʌm tʊ ˈiːzi bˈiː stˈænd ɑːnðə sˈɛntɹəl dˈɪdʒɪɾəl kˈɜːɹənt ʃˈɪp wiː kænˈɑːt lˈɛt lˈaɪbɹə ˌʌndɚmˈaɪn mˈoːɹ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_46_32_10.wav|ðɪ ˌʌs ɪz nˌɑːɾə ɐn ɛɡzˈæmpəl fɔːɹ jʊɹ ɐbˌaʊt wiː nˈiːd tə tˈeɪk ðə lˈiːd aɪʊɹsˈɛlvz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201007-0900-PLENARY-en_20201007-16_53_11_4.wav|ðɪs ɪz ˈɑːlsoʊ fɔːɹ ðɪs hˈaʊs vˈɛɹi ɪmpˈoːɹtənt pˈɔɪnt tʊtə dɪskˈʌs ɐnˈʌðɚɹ ˈɪʃuː ðæt wʌz ðæt wʌz ɹˈeɪzd ænd
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-08_54_16_3.wav|ðə ɹɪpˈoːɹt ɪz sˈɛnt tə ðɪ ɐθˈɔːɹɪɾiz ænd dɪspˈaɪt ðˈɪs
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-08_57_09_13.wav|wiː ɪt wɪl nˈɛvɚ hˈæpən θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-08_57_09_3.wav|ðə nˈeɪm ʌv vlˈædɪmˌɪɹ ɹɪpˈoːɹɾɪŋ kˈɔːz ɪn ˈɪɡ pjˈuːtɪn ɪz ˈɑːlsoʊ lˈɪŋkt tə sˈʌtʃ ɐ tɹænsˈækʃən ɐnˈʌðɚ lˈɪŋk ɹɪvˈiːlz ɐ tɹænsˈækʃənəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09_09_36_11.wav|ʃiːz spˈɛndɪŋ hɜː dˈeɪ ˈɑːlsoʊ ɪn lˈʌkʃɚɹi nˌɑːt ɪn æŋɡˈoʊlə bˌʌt ɪn ɪn ɹˈʌʃə ænd ˈʌðɚ plˈeɪsᵻz sˌoʊ wˌʌt wiː nˈiːd ɪz tuː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09_09_36_2.wav|wiː ɪn ðɪs ɹˈuːm nˈoʊ ɪz nˈoʊ ɪt ˈɔːɹdɪnˌɛɹi pˈiːpəl ɑːɹ stˈɪl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09_24_10_0.wav|θˈæŋk juː mˈɑːm vˈaɪs pɹˈɛzɪdənt ðə vˈɪnsənt fˈaɪlz ʃˈoʊ klˈɪɹli ðə ʃˈɪɹ kwˈɑːntɪɾi ʌv səspˈɪʃəs tɹænsˈæk tˈeɪkɪŋ plˈeɪs
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09_39_18_12.wav|aɪv bˌɪn hˈɪɹɪŋ ˈaɪ θˈɪŋk ˈɔːl ʌv maɪ kˈɑːliːɡz spˈiːk ænd ˈaɪ ˈaɪ aɪv tˈeɪkən klˈoʊs nˈoʊts ænd ˈaɪ θˈɪŋk ðæt wiː ˈɔːl sˈiː θˈɪŋz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201008-0900-PLENARY-en_20201008-09_50_35_3.wav|ðɪs wʌz nˌɑːt ɹˈiəli sˈʌmθɪŋ tə ðɪ ˈʌðɚ dˈɪdʒɪɾəl oʊkˈeɪ sˈoʊ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17_25_33_0.wav|ðeɪ ɑːɹ ʃˈɛɹd ðɛɹ kəmˈɪʃənɚ ðɛɹ kˈɑːliːɡz ˈɑːnlaɪn sˈɜːvɪsᵻz ɑːɹ ˈɛvɹɪwˌɛɹ fɹʌmðə wˈeɪ wiː ɪnfˈɔːɹm aɪʊɹsˈɛlvz tə ðə wˈeɪ wiː kˈiːp ɪt ɪn tˈʌtʃ wɪð fɹˈɛndz fɹʌmðə wˈeɪ wiː bˈaɪ bˈʊks ænd
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17_25_33_11.wav|jˈɛt ˈiːvən hˈɪɹ ɪt ɪz stˈɪl ðə wˈɜːld wiː wˈɛst ˌoʊvɚ ðə pˈæst dˈɛkeɪd
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17_25_33_2.wav|fɹʌmðə wˈeɪ wiː ˈiːt tə ðə wˈeɪ wiː mˌeɪk dˈeɪts ænd sˌʌm pˈiːpəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17_25_33_20.wav|æz ˈɜː fɚðə dˌiːzˌiːˈeɪ ɹɪpˈoːɹt aɪm ɹˈeɪzɪŋ ɐ fjˈuː ˈɪʃuːz ɹˈaɪt nˈaʊ ðə vˈæljuː ʌv lˈɔː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-17_25_33_8.wav|bˌʌt bˌʌt ɪt ɪz ˈɑːlsoʊ bɹˈɪŋz dˈeɪndʒɚz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-18_22_38_4.wav|kˈʌstəm tˈeɪlɚd dˈɪdʒɪtˌeɪld æt ˈɔːl lˈɛvəlz ˌɛdʒuːkˈeɪʃən ɪz ˈɑːlsoʊ pˈæɹəmˌaʊnt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-19_26_33_2.wav|ɹˌɛɡjuːlˈeɪʃən mˈɪstɚ dˈuː wiː ænd dʒˈɛndɚ bˈeɪst dɪskɹˌɪmᵻnˈeɪʃən sˈʌtʃ sˈɪstəmz nˈiːd təbi sˈʌbdʒɛkt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201019-0900-PLENARY-en_20201019-20_08_31_6.wav|ænd lˈɪsənɪŋ tə juː tə jʊɹ ɹɪˈækʃən mˈædəm kəmˈɪʃənɚɹ aɪm vˈɛɹi aɪm vˈɛɹi pˈɑːzɪtˌɪv ɐbˌaʊt ðə pɹəpˈoʊzəlz ðæt juː ʃˈoʊ tˈeɪk ænd wiː tˈeɪk ænd wiː kæn dɪskˈʌs vˈɛɹi sˈuːn θˈæŋk juː juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-10_32_18_8.wav|juː ˈoʊ ɪt tə ðˌɛm θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-11_10_18_0.wav|dˈɪɹ pɹˈɛzɪdənt dˈɪɹ kˈɑːliːɡz aɪm ɐ fˈʊl hˈɑːɹɾᵻd jˌʊɹəpˈiən fɔːɹ mˌiː hˈɪɹ ɪts ˈɔːl ˈɪn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-11_10_18_3.wav|ðɪ ˈɑːpəsˌɪt ðeɪ sˈiː dɪlˈeɪ tˈæktɪks
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-12_26_35_0.wav|tɹˈænz θˈæŋk juː mˈædəm pɹˈɛzɪdənt dˈɪɹ mˈɪʃənˌɛɹi dˈɪɹ kˈɑːliːɡz ðə pˈæst faɪnˈænʃəl kɹˈaɪsɪs ænd ðɪ ˈænsɚ ðə juː hɐz ɡˈɪvən ʃˈoʊ hˌaʊ pˈʌblɪk hˌaʊ kˈʌts ɪn pˈʌblɪk sˈɜːvɪsᵻz hɐd ɐ nˈɛɡətˌɪv ˈɪmpækt ˌɑːn ˌaʊɚɹ ˌiːkənˈɑːmɪk ɛnvˌaɪɹənmˈɛntəl ænd sˈoʊʃəl ɹɪkˈʌvɚɹi
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-17_12_42_0.wav|dˈɪɹ tʃˈɛɹ dˈɪɹ mˈɛmbɚz ðə sˈɜːfɪs spˈiːkɚz æt swˈɪtsɚlənd ɪz lˈɔst tə dɪfˌɔːɹɪstˈeɪʃən wˈɜːldwaɪd ˈɛvɹi jˈɪɹ æz jˌʊɹəpˈiənz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-17_12_42_2.wav|hɐvbɪn fˈɛd wɪð sˈɔɪ plˈæntᵻd ˌɑːn ɪlˈiːɡəli lˈɑːkt fˈɔːɹɪst sˈɔɪl nˈoʊ wˈʊdən pɹˈɑːdʌkt sˈoʊ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201021-0900-PLENARY-en_20201021-17_12_42_6.wav|sˌoʊ lˈɛts ˈækt nˈaʊ θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-09_40_04_1.wav|wˈɪmɪn mˌeɪk hæv ˌaʊɚ səsˈaɪəɾi ðɛɹ pɑːɹtˈɪsɪpˈeɪʃən ɪn fˈɔːɹən
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-09_40_04_19.wav|stɹˈaɪvɪŋ fɔːɹ ˈiːkwəl ɹˌɛpɹɪzˈɛntˈeɪʃən mˈiːnz səstˈeɪnəbəl pˈiːs ænd sɪkjˈʊɹɪɾi fɔːɹ ˈɛvɹɪwˌʌn θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-09_50_17_8.wav|ænd lˈɛt mˌiː stɹˈɛs ðə wˈɜːld sˈɛd baɪ maɪ kˈɑːliːɡ dʒˈʌst bɪfˌoːɹ mˌiː mˈædəlɪn ˌɛlbˈiː mˈædəlɪn ˈælbɹaɪt pˈæɹəfɹˌeɪzɪŋ ðɛɹ ɪz ɐ spˈɛʃəl plˈeɪs ɪn hˈɛlp fɔːɹ mˈɛn hˌuː dˈoʊnt hˈɛlp wˈɪmɪn θˈæŋk juː vˈɛɹi mˈʌtʃ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_04_09_0.wav|θˈæŋk juː pɹˈɛzɪdənt mˈædəm kəmˈɪs wˈɪmɪn ɹɪmˈeɪn lˈɑːɹdʒli ˌʌnɹˌɛpɹɪzˈɛntᵻd ænd ˌʌndɚvˈæljuːd ɪn pˈɑːlətˌɪks ænd dᵻsˈɪʒən mˌeɪkɪŋ pɹˈɑːsɛs ɪn ˌiːjˈuː ænd bɪjˌɑːnd nˌʌnðəlˈɛs jˌʊɹəpˈiən
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_25_01_0.wav|mˈɪstɚ tʃˈɛɹ ɐ nˈuː plˈiːnɚɹi ɐ nˈuː dɪbˈeɪt ɐɹˈaʊnd mˈʌni lˈɔːndɚɹɪŋ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_25_01_4.wav|ðə sˈaɪpɹəs klˈɪks ænd ðə nˈeɪmz ɪt ɹɪvˈiːlz ɑːɹ bˈɜːθ ʌv dɪskˈʌʃən wɪð
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_25_01_6.wav|ɪts ɐ dɪsɡɹˈeɪs fɚðə hˈoʊl jˌʊɹəpˈiən jˈuːniən ðə kˈɑːntɹæst ænd ðə
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_25_01_7.wav|ðə kˈɑːntɹæst ænd ðɪ ɪndˈɪfɹəns tʊwˈɔːɹdz bˈɜːnɪŋ ɹˈɛfjuːdʒˌiː kˈæmps ɪn mˈɔɪɹə kænˈɑːt biː bˈɪɡɚɹ ˈaɪ ɐɡɹˈiː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_25_01_9.wav|pˈæspoːɹts ænd vˈiːzə ɑːɹ nˌɑːt kəmˈɑːdɪɾi
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_41_12_5.wav|bˈɛɾɚ lˈeɪt ðɐn ˈɛvɚ bˌʌt ðiːz ɐlˈoʊn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_41_12_6.wav|bˌʌt ðiːz ɐlˈoʊn wɪl dˈuː ðə tɹˈɪk kɹˈɪmɪnəlz lˈʊkɪŋ fɚɹə sˈeɪf
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-10_45_52_6.wav|ɪt ɐtˈæks ˌʌs ˈɔːl ænd ɪt mˈʌst ˈɛnd θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11_14_13_1.wav|wiː hæv ˌoʊvɚɹ ɐtʃˈiːvd ˌaʊɚ klˈaɪmət ɔːɹ ðɪ ˈɛnɚdʒi tˈɑːɹɡɪts fɔːɹ ɹɪnˈuːəbəl ˈɛnɚdʒi fɔːɹ tˈuː θˈaʊzənd ænd twˈɛnti bˌʌt ˈɑːbvɪəsli ðiːz tˈɑːɹɡɪts ɑːɹ stˈɪl mˈɑːdəst nˈaʊ wɛn ðə jˌʊɹəpˈiən pˈɑːɹləmənt ɪz pˈʊʃɪŋ fɚɹə
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11_57_37_9.wav|wiːv mˌeɪd ðæt ˈɑːlsoʊ klˈɪɹ ɪn fˈɔːɹmɚ dɪbˈeɪt ænd ðə fˈɔːɹmɚ vˈoʊt ɑːnðə klˈaɪmət lˈɔː wˌɛɹ wiː klˈɪɹli stˈeɪɾᵻd stˈeɪt mˌeɪd stˈeɪtmənt ɑːnðɪ ˈɛkt sˌoʊ maɪ kwˈɛstʃən tə ðə kəmˈɪʃən
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11_59_51_0.wav|ðɛɹ kəmˈɪʃənɚɹ ɪts ɡɹˈeɪt ðæt wiː ɑːɹ hˌævɪŋ ðɪs dɪbˈeɪt bˌʌt ðɪs ʃˌʊd biː ˈoʊnli ðə stˈɑːɹt wiː nˈiːd tə pˈʊt
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-11_59_51_7.wav|wˌʌt dˈuː wiː dˈuː ðˈɛn stˈɑːɹt kˈɑːmpənsˌeɪɾɪŋ ˈɔːl ðɪ ɪn ɪnvˈɛst
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201022-0900-PLENARY-en_20201022-12_03_16_0.wav|jˈɛh θˈæŋk juː mˈɪstɚ pɹˈɛzɪdənt ænd həlˈoʊ kəmˈɪʃənɚ wɛnˌɛvɚɹ ˈaɪ spˈiːk tə sˈɪɾɪzənz ɐbˌaʊt ðɪ ˈɛnɚdʒi tʃˈɑːɹɾɚ tɹˈiːɾi ðeɪ ɑːɹ ʃˈɑːkt ðɪ ˈɛnɚdʒi tʃˈɑːɹɾɚ
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_01_00_0.wav|pɹˈɛzɪdənt kˈɑːliːɡz jˈɛstɚdˌeɪ wiː kənklˈuːdᵻd nɪɡˈoʊʃɪˈeɪʃənz ɑːnðə jˌʊɹəpˈiən mˈʌltaɪ ˈænɪməl fɹˈeɪmwɜːk ðiːz nɪɡˈoʊʃɪˈeɪʃənz hɐvbɪn ɪntˈɛns
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_01_00_14.wav|ɪts ˌæbsəlˈuːtli ɪmpˈoːɹtənt tə ɡɛt ˌʌs ˌoʊvɚ ænd bɪjˌɑːnd ðə kɹˈaɪsɪs ænd ðɛɹ kˈɑːliːɡz ɪts ˌʌp tə ðə kˈaʊnsəl nˈaʊ wiːv hˈɜːd ɹɪpˈiːɾᵻd ɪnðə pˈæst mˈʌnθs ænd wˈiːks ðˌɐɾɪt ɪz ðə pˈɑːɹləmənt ðæt ɪz stˈɔːlɪŋ ðə pˈɑːɹləmənt ðæt ɪz dɪlˈeɪɪŋ ðə pˈɑːɹləmənt ðæt ɪz ɹɪspˈɑːnsəbəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_24_24_0.wav|ɪz fʊlfˈɪl kˈɑːliːɡ hˈæn θˈæŋk juː vˈɛɹi mˈʌtʃ mˈɪstɚ pɹˈɛzɪdənt dˈɪɹ kˈɑːliːɡz ɪn dʒuːlˈaɪ ðə hˈɛdz ʌv stˈeɪt ænd ɡˈʌvɚnmənt hæv nɪɡˈoʊʃɪˌeɪɾᵻd fˈoːɹ dˈeɪz ænd fˈoːɹ nˈaɪts ænd hæv ɐdˈɑːptᵻd ðɛɹ pəzˈɪʃən ɑːnðə bˈʌdʒɪt ʌvðə jˌʊɹəpˈiən jˈuːniən fɚðə nˈɛkst sˈɛvən jˈɪɹz
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_24_24_16.wav|ðɛɹˌɑːɹ θɹˈiː pˈɪlɚz dˈɪɹ kˈɑːliːɡz fɚðɪ ˈiːoʊ bˈʌdʒɪt fɚðə nˈɛkst sˈɛvən jˈɪɹz ðə mˈʌltaɪ faɪnˈænʃəl fɹˈeɪmwɜːk
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_24_24_24.wav|kˈʌntɹi spəsˈɪfɪk ɹˌɛkəmɛndˈeɪʃənz jˌʊɹəpˈiən səmˈɛstɚ mˈɪstɚ pɹˈɛzɪdənt ɑːɹ vˈɛɹi ɪmpˈoːɹtənt ɑːɹ vˈɛɹi ɪmpˈoːɹtənt bɪkˈʌz ðə tˈaɪɾəl ʌvðə pɹˈoʊɡɹæm ɪz ɹɪkˈʌvɚɹi ænd ɹɪsˈɪliəns mˈeɪ kˈʌntɹi fˈɪn θˈæŋk
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_24_24_8.wav|sˈɛvən bˈɪliən jˈʊɹɹoʊz tə fˈaɪv bˈɪliən jˈʊɹɹoʊz ðə ɹɪsˈɜːtʃ pɹˈoʊɡɹæm
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_39_11_16.wav|ðɪs ɪz ɐ hjˈuːdʒ ɐtʃˈiːvmənt ðæt wiː kæn biː pɹˈaʊd ʌv
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-16_59_52_7.wav|ðiːz ɡˈaɪz ðeɪ mˈiːn ɪt ðeɪɚ plˈænɪŋ tʊ ˌʌndɚmˈaɪn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-17_09_04_12.wav|tˈeɪk ɹɪspˌɑːnsəbˈɪlɪɾi nˈaʊ ˈɑːn
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201111-0900-PLENARY-en_20201111-17_09_04_16.wav|ˈɛvɹi sˈɪŋɡəl pˈɛni sˌoʊ dˈoʊnt kˈʌm hˈɪɹ ænd sˈeɪ ˈoʊ wiː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-09_27_00_0.wav|θˈæŋk juː vˈɛɹi mˈʌtʃ kˈɑːliːɡz ˈælbɚt kˈɑːmi ɹˈoʊt ænd ðə plˈʌɡ ˈaɪ hæv nˈoʊ aɪdˈiə wˌʌt ɪz ɐwˈeɪɾɪŋ mˌiː ɔːɹ wˌʌt wɪl hˈæpən wɛn ðɪs ˈɔːl ˈɛndz fɔːɹ ðɪs mˈoʊmənt ˈaɪ nˈoʊ ðɪs ðɛɹˌɑːɹ sˈɪk pˈiːpəl
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-11_42_47_40.wav|ænd juː hæv ˈɔːlweɪz bˌɪn vˈɛɹi kənstɹˈʌktɪv wˌɪtʃ aɪm ʃˈʊɹ ðæt sˈiːɡfɹɪd ænd ˈaɪ sˈiːɡfɹɪd ænd ˈaɪ ɐpɹˈiːʃɪˌeɪt vˈɛɹi mˈʌtʃ θˈæŋk juː fɔːɹ ðæt θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-12_29_34_5.wav|wiː kænˈɑːt ɐfˈoːɹd ænd wiː dˈoʊnt wˈɑːnt ɐn ˈɛmpti pˈækɪdʒɪŋ pɹˈɪɾi pˈækɪdʒɪŋ fɔːɹ ˈɛmpti bˈɑːks nˈoʊ ˈɛmpti pɹˈɑːmɪsᵻz ænd nˈoʊ ɡɹˈiːnwɑːʃɪŋ wiː ɔːlɹˌɛdi lˈɔst mˈɛni
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-12_29_34_8.wav|wiː mˌeɪk nˈiːd tə mˌeɪk ʃˈʊɹ ðæt nˌɑːt ˈoʊnli ˌaʊɚ lˈɛft hˈænd dˈʌz nˈoʊ wˌʌt ðə ɹˈaɪt hˈænd ɪz nˈoʊ wˌʌt ðə ɹˈaɪt hˈænd ɪz dˌuːɪŋ bˌʌt ðæt wiː wˈɜːk hˈænd ɪn hˈænd θˈæŋk juː
+/kaggle/input/voxpopuli-en-accented/VoxPopuli_en_accented/20201112-0900-PLENARY-en_20201112-12_38_08_9.wav|æz wɪl biː fɹˈʌntlaɪn ˈæktɚz ɪn ðɪs ɹɪɡˈɑːɹd ðˈɛɹfoːɹ wiː nˈiːd tʊ ɐsˈɪst ðə
 /kaggle/input/vctk-corpus/VCTK-Corpus/wav48/p276/p276_375.wav|hiː ɹɪmˈeɪnz ɐ mˈeɪn bˈoːɹd dɚɹˈɛktɚɹ ʌv ɹˈɔɪəl.
 /kaggle/input/vctk-corpus/VCTK-Corpus/wav48/p276/p276_238.wav|hɐd ðɪs bˌɪn kˈɑːmən pɹˈæktɪs ?
 /kaggle/input/vctk-corpus/VCTK-Corpus/wav48/p276/p276_417.wav|vˈiːnəs ɹɪdʒˈɛkts ðə vˈɛɹi sədʒˈɛstʃən.
