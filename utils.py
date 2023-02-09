@@ -43,7 +43,7 @@ def length_to_mask(lengths):
     mask = torch.gt(mask+1, lengths.unsqueeze(1))
     return mask
 
-# for adversarial loss
+# for more advanced adversarial loss
 def adv_loss(logits, target):
     assert target in [1, 0]
     if len(logits.shape) > 1:
@@ -53,25 +53,25 @@ def adv_loss(logits, target):
     loss = F.binary_cross_entropy_with_logits(logits, targets)
     return loss
 
+
 # for R1 regularization loss
 def r1_reg(d_out, x_in):
-    # zero-centered gradient penalty for real images
+    # spectral normalization penalty for real images
     batch_size = x_in.size(0)
     grad_dout = torch.autograd.grad(
         outputs=d_out.sum(), inputs=x_in,
         create_graph=True, retain_graph=True, only_inputs=True
     )[0]
-    grad_dout2 = grad_dout.pow(2)
-    assert(grad_dout2.size() == x_in.size())
-    reg = 0.5 * grad_dout2.view(batch_size, -1).sum(1).mean(0)
+    grad_dout_norm = grad_dout.view(batch_size, -1).norm(dim=1)
+    reg = (grad_dout_norm.mean() - 1) ** 2
     return reg
 
 # for norm consistency loss
 def log_norm(x, mean=-4, std=4, dim=2):
     """
-    normalized log mel -> mel -> norm -> log(norm)
+    log-cosh normalization
     """
-    x = torch.log(torch.exp(x * std + mean).norm(dim=dim))
+    x = torch.log(torch.cosh(x * std + mean).norm(dim=dim))
     return x
 
 def get_image(arrs):
