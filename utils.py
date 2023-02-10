@@ -50,20 +50,25 @@ def adv_loss(logits, target):
         logits = logits.reshape(-1)
     targets = torch.full_like(logits, fill_value=target)
     logits = logits.clamp(min=-10, max=10) # prevent nan
-    loss = F.binary_cross_entropy_with_logits(logits, targets)
+
+    loss = F.binary_cross_entropy_with_logits(logits, targets, reduction='none')
+    loss = torch.mean(loss) + (0.01 * torch.std(loss))
     return loss
 
 
 # for R1 regularization loss
-def r1_reg(d_out, x_in):
-    # spectral normalization penalty for real images
+def r1_reg(d_out, x_in, alpha=10.0, lambda_=0.5):
+    # zero-centered gradient penalty for real speaker audio with advanced regularization.
     batch_size = x_in.size(0)
     grad_dout = torch.autograd.grad(
-        outputs=d_out.sum(), inputs=x_in,
-        create_graph=True, retain_graph=True, only_inputs=True
+    outputs=d_out.sum(), inputs=x_in,
+    create_graph=True, retain_graph=True, only_inputs=True
     )[0]
-    grad_dout_norm = grad_dout.view(batch_size, -1).norm(dim=1)
-    reg = (grad_dout_norm.mean() - 1) ** 2
+    grad_dout2 = grad_dout.pow(2)
+    assert(grad_dout2.size() == x_in.size())
+    reg = 0.5 * grad_dout2.view(batch_size, -1).sum(1)
+    reg = reg.mean(0) + lambda_ * (reg.pow(2).mean(0) - reg.mean(0) ** 2).sqrt()
+    reg = alpha * reg
     return reg
 
 # for norm consistency loss
