@@ -43,42 +43,37 @@ def length_to_mask(lengths):
     mask = torch.gt(mask+1, lengths.unsqueeze(1))
     return mask
 
-# for more advanced adversarial loss
+# for adversarial loss
 def adv_loss(logits, target):
     assert target in [1, 0]
     if len(logits.shape) > 1:
         logits = logits.reshape(-1)
     targets = torch.full_like(logits, fill_value=target)
     logits = logits.clamp(min=-10, max=10) # prevent nan
-
-    loss = F.binary_cross_entropy_with_logits(logits, targets, reduction='none')
-    loss = torch.mean(loss) + (0.01 * torch.std(loss))
+    loss = F.binary_cross_entropy_with_logits(logits, targets)
     return loss
 
-
 # for R1 regularization loss
-def r1_reg(d_out, x_in, alpha=10.0, lambda_=0.5):
-    # zero-centered gradient penalty for real speaker audio with advanced regularization.
+def r1_reg(d_out, x_in):
+    # zero-centered gradient penalty for real images
     batch_size = x_in.size(0)
     grad_dout = torch.autograd.grad(
-    outputs=d_out.sum(), inputs=x_in,
-    create_graph=True, retain_graph=True, only_inputs=True
+        outputs=d_out.sum(), inputs=x_in,
+        create_graph=True, retain_graph=True, only_inputs=True
     )[0]
     grad_dout2 = grad_dout.pow(2)
     assert(grad_dout2.size() == x_in.size())
-    reg = 0.5 * grad_dout2.view(batch_size, -1).sum(1)
-    reg = reg.mean(0) + lambda_ * (reg.pow(2).mean(0) - reg.mean(0) ** 2).sqrt()
-    reg = alpha * reg
+    reg = 0.5 * grad_dout2.view(batch_size, -1).sum(1).mean(0)
     return reg
 
 # for norm consistency loss
 def log_norm(x, mean=-4, std=4, dim=2):
     """
-    log-cosh normalization
+    normalized log mel -> mel -> norm -> log(norm)
     """
-    x = torch.log(torch.cosh(x * std + mean).norm(dim=dim))
+    x = torch.log(torch.exp(x * std + mean).norm(dim=dim))
     return x
-
+	
 def get_image(arrs):
     plt.switch_backend('agg')
     fig = plt.figure()
