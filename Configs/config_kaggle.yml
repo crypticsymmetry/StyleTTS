@@ -7,7 +7,7 @@ multigpu: false
 epochs_1st: 4 # number of epochs for first stage training
 epochs_2nd: 2 # number of peochs for second stage training
 batch_size: 10
-pretrained_model: "Models/LibriTTS/epoch_1st_00001_kaggle.pth"
+pretrained_model: "Models/LibriTTS/Base_8000.pth"
 second_stage_load_pretrained: false # set to true if the pre-trained model is for 2nd stage
 load_only_params: false # set to true if do not want to load epoch numbers and optimizer parameters
 
