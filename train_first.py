@@ -280,18 +280,7 @@ def main(config_path):
                 
                 running_loss = 0
                 print('Time elasped:', time.time()-start_time)
-                if (i+1) % 1000 == 0:
-                  state = {
-                      'net': {key: model[key].state_dict() for key in model}, 
-                      'optimizer': optimizer.state_dict(),
-                      'iters': iters,
-                      'val_loss': 0 / 1,
-                      'epoch': epoch,
-                    }
-
-                  save_path = osp.join(log_dir, 'model_step_%05d.pth' % (i+1))
-                  torch.save(state, save_path)
-                  print('Model saved after %d steps' % (i+1))
+                
 
         loss_test = 0
 

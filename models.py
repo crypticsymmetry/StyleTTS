@@ -691,13 +691,16 @@ def build_model(args, text_aligner, pitch_extractor):
                 discriminator=discriminator)
     return nets
 
-def load_checkpoint(model, optimizer, path, load_only_params=True):
+def load_checkpoint(model, optimizer, path, load_only_params=True, multigpu=True):
     state = torch.load(path, map_location='cpu')
     params = state['net']
     for key in model:
         if key in params:
             print('%s loaded' % key)
-            model[key].load_state_dict(params[key])
+            if multigpu:
+                model[key].module.load_state_dict(params[key])
+            else:
+                model[key].load_state_dict(params[key])
     _ = [model[key].eval() for key in model]
     
     if not load_only_params:

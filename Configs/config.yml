@@ -3,11 +3,11 @@ first_stage_path: "first_stage.pth"
 save_freq: 1
 log_interval: 10
 device: "cuda"
-multigpu: false
-epochs_1st: 6 # number of epochs for first stage training
-epochs_2nd: 3 # number of peochs for second stage training
-batch_size: 10
-pretrained_model: "/content/gdrive/MyDrive/Libritts/Base_8000.pth"
+multigpu: true
+epochs_1st: 12 # number of epochs for first stage training
+epochs_2nd: 6 # number of peochs for second stage training
+batch_size: 52
+pretrained_model: "Models/LibriTTS/epoch_1st_00001_kaggle.pth"
 second_stage_load_pretrained: false # set to true if the pre-trained model is for 2nd stage
 load_only_params: false # set to true if do not want to load epoch numbers and optimizer parameters
 
@@ -43,7 +43,7 @@ loss_params:
     
     lambda_mono: 1. # monotonic alignment loss (1st stage, TMA)
     lambda_s2s: 1. # sequence-to-sequence loss (1st stage, TMA)
-    TMA_epoch: 3 # TMA starting epoch (1st stage)
+    TMA_epoch: 6 # TMA starting epoch (1st stage)
 
     # https://github.com/yl4579/StyleTTS/issues/7
     TMA_CEloss: true # whether to use cross-entropy (CE) loss for TMA
